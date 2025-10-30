@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "ACL 2023 Organizing Committee."
+excerpt: "SIGDIAL 2026 Organizing Committee."
 permalink: /committees/organization/
 sidebar: 
     nav: "committees"

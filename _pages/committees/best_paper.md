@@ -1,7 +1,7 @@
 ---
 title: Best Paper Committee
 layout: single
-excerpt: "ACL 2023 Best Paper Committee."
+excerpt: "SIGDIAL 2026 Best Paper Committee."
 permalink: /committees/best_paper/
 sidebar:
     nav: "committees"

@@ -9,7 +9,7 @@ sidebar:
     nav: program
 ---
 
-Arguably the biggest source of issues with peer review quality is the lack of incentives to invest more work in invisible service labor, and improving the incentives for that was one of the missions of ACL'23. 
+Arguably the biggest source of issues with peer review quality is the lack of incentives to invest more work in invisible service labor, and improving the incentives for that was one of the missions of SIGDIAL'26. 
 
 With support of ACL exec, we are pleased to announce the inaugural round of ACL reviewer awards, which will be comparable in scope to the best paper awards policy (1-1.5% of the pool of reviewers and chairs). Besides serving as a token of community recognition, and they come with a special award: a fee waiver for any *ACL virtual conference, to be used within a year of the award. Since most academic institutions cover attendance for the conferences where their affiliated authors have accepted papers—but not other conferences—-we hope that this will allow the awardees to attend more conferences than they would otherwise, and the benefit of the award will thus be received by them rather than by their host institutions.
 

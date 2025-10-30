@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "ACL 2023 Tutorials."
+excerpt: "SIGDIAL 2026 Tutorials."
 permalink: /program/tutorials/
 toc: true
 toc_sticky: true

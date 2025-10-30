@@ -1,7 +1,7 @@
 ---
 title: Workshops
 layout: single
-excerpt: "ACL 2023 Workshops."
+excerpt: "SIGDIAL 2026 Workshops."
 permalink: /program/workshops/
 toc: true
 sidebar: 

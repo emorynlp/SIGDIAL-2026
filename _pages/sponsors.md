@@ -152,10 +152,10 @@ di_ally:
     title: Amazon
 ---
 
-ACL 2023 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.
+SIGDIAL 2026 is extremely grateful to all sponsors. We simply couldn't run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the discourse and dialogue community.
 
-If your organization would like to sponsor ACL or other conferences in the ACL family,
-please refer to our [**Invitation to Sponsors**](/downloads/Sponsorship_Brochure-ACL2023-20230505.pdf)
+If your organization would like to sponsor SIGDIAL or other conferences in the ACL family,
+please refer to our [**Invitation to Sponsors**](/downloads/Sponsorship_Brochure-SIGDIAL2026-20230505.pdf)
 for information about sponsorship rates and benefits.
 
 <style>

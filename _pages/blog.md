@@ -1,5 +1,5 @@
 ---
-title: ACL 2023 Blog
+title: SIGDIAL 2026 Blog
 layout: archive
 permalink: /blog/
 author_profile: false

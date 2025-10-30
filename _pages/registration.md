@@ -84,7 +84,7 @@ conference, but you must register for the appropriate workshop.
 | Workshops Only (2 days) - Student Late/Onsite |   $200.00  |
 {: .dates-table}
 
-Register Here: [https://acl.swoogo.com/ACL2023](https://acl.swoogo.com/ACL2023)
+Register Here: [https://sigdial.swoogo.com/SIGDIAL2026](https://sigdial.swoogo.com/SIGDIAL2026)
 
 ## Virtual Pricing
 
@@ -124,7 +124,7 @@ prohibitive, please contact the D&I committee.
 | Workshops Only (2days) - Student Late/Onsite | $60.00  |
 {: .dates-table}
 
-Register Here: [https://acl.swoogo.com/ACL2023](https://acl.swoogo.com/ACL2023)
+Register Here: [https://sigdial.swoogo.com/SIGDIAL2026](https://sigdial.swoogo.com/SIGDIAL2026)
 
 ## Cancelation Policy
 

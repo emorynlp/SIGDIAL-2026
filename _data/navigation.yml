@@ -1,25 +1,32 @@
 # main links in masthead.html
 main:
-  - title: "MiniConf"
-    url: https://virtual2023.aclweb.org
-  - title: "Program"
-    url: /program/
-  - title: "Registration"
-    url: /registration/
+  - title: "Calls"
+    url: /calls/main_conference/
+  # - title: "Program"
+  #   url: /program/
   - title: "Venue"
     url: /venue/
-  - title: "Participants"
-    url: /participants/about_acl/
-  - title: "Committees"
-    url: /committees/organization/
-  - title: "Sponsors"
-    url: /sponsors/
+  - title: "Organizers"
+    url: /organizers/
   - title: "FAQ"
     url: /faq/
   - title: "Blog"
     url: /blog/
-  - title: "Calls"
-    url: /calls/main_conference/
+  # - title: "Registration"
+  #   url: /registration/
+  # - title: "Participants"
+  #   url: /participants/about_acl/
+  # - title: "Sponsors"
+  #   url: /sponsors/
+
+calls:
+  - title: "Call for Papers"
+    children:
+      - title: "Main Conference"
+        url: /calls/main_conference/
+      - title: "YRRSDS 2026"
+        url: /calls/yrrsds_2026/
+
 
 program:
   - title: "Programs"
@@ -53,37 +60,8 @@ program:
       - title: "System Demonstration"
         url: /program/accepted_system_demonstration/
 
-calls:
-  - title: "Call for Papers"
-    children:
-      - title: "Main Conference"
-        url: /calls/main_conference/
-      - title: "Industry Track"
-        url: /calls/industry_track/
-      - title: "System Demonstration"
-        url: /calls/system_demonstration/
-      - title: "Student Research Workshop"
-        url: /calls/student_research_workshop/
-      - title: "Style Files and Formatting"
-        url: /calls/style_and_formatting/
-  - title: "Call for Volunteers"
-    children:
-      - title: "Student Volunteer Program"
-        url: /calls/volunteers/
-  - title: "Call for Subsidies"
-    children:
-      - title: "Diversity & Inclusion Program"
-        url: /calls/subsidies/
-  - title: "Call for Organizers"
-    children:
-      - title: "D&I Socials & BoF Sessions"
-        url: /calls/bof/
-  - title: "Call for Proposals"
-    children:
-      - title: "Workshops"
-        url: /calls/workshops/
-      - title: "Tutorials"
-        url: /calls/tutorials/
+
+
 
 committees:
   - title: "Committees"

@@ -1,6 +1,6 @@
-# ACL 2023 Official Website
+# SIGDIAL 2026 Official Website
 
-This is the code for the official website for the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), based on the code for [EMNLP 2022](https://github.com/acl-org/emnlp-2022), the following is the configuration details.
+This is the code for the official website for the 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026), based on the code for [EMNLP 2022](https://github.com/acl-org/emnlp-2022), the following is the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 

@@ -1,7 +1,7 @@
 ---
 title: Program Committee
 layout: single
-excerpt: "ACL 2023 Senior Program Committee."
+excerpt: "SIGDIAL 2026 Senior Program Committee."
 permalink: /committees/program/
 sidebar:
     nav: "committees"

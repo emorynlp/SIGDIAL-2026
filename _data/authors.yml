@@ -1,97 +1,26 @@
 # Authors: TODO: fill this in when publishing blogs.
 
-program-chair:
-  name        : "General Chair"
-  email       : ""
-  bio         : "Yang Liu"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
+jinho-choi:
+  name        : "Jinho Choi"
+  bio         : "General Chair"
+  avatar      : "assets/images/people/jinho_choi.jpg"
 
-program-chairs:
-  name        : "Program Chairs"
-  email       : "acl2023-pc@googlegroups.com"
-  bio         : "Jordan Boyd-Graber, Naoaki Okazaki, Anna Rogers"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
+vivian-chen:
+  name        : "Yun-Nung (Vivian) Chen"
+  bio         : "Program Chair"
+  avatar      : "assets/images/people/vivian_chen.jpg"
 
-workshop-chairs:
-  name        : "Workshop Chairs"
-  email       : ""
-  bio         : "Eduardo Blanco, Yang Feng, Annie Louis"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
+kotaro-funakoshi:
+  name        : "Kotaro Funakoshi"
+  bio         : "Program Chair"
+  avatar      : "assets/images/people/kotaro_funakoshi.jpg"
 
-tutorial-chairs:
-  name        : "Tutorial Chairs"
-  email       : ""
-  bio         : "Vivian Chen, Margot Mieskes, Siva Reddy"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
+kartik-goyal:
+  name        : "Kartik Goyal"
+  bio         : "Workshop Chair"
+  avatar      : "assets/images/people/kartik_goyal.jpg"
 
-demonstration-chairs:
-  name        : "Demonstration Chairs"
-  email       : ""
-  bio         : "Danushka Bollegala, Ruihong Huang, Alan Ritter"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-industry-track-chairs:
-  name        : "Industry Track Chairs"
-  email       : ""
-  bio         : "Sunayana Sitaram, Beata Beigman Klebanov"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-publicity-social-media-chairs:
-  name        : "Publicity and Social Media Chairs"
-  email       : ""
-  bio         : "Devamanyu Hazarika, Eva Vanmassenhove, Tong Xu"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-website-chairs:
-  name        : "Website Chairs"
-  bio         : "Jinho Choi, Zhongyu Wei"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-student-research-workshop-chairs:
-  name        : "Student Research Workshop Chairs"
-  email       : ""
-  bio         : "Yao Fu, Vishakh Padmakumar, Gisela Vallejo"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-student-research-workshop-advisors:
-  name        : "Student Research Workshop Advisors"
-  email       : ""
-  bio         : "Ivan Vulić, Lu Wang"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-pblication-chairs:
-  name        : "Publication Chairs"
-  email       : ""
-  bio         : "Ryan Cotterell, Lifu Huang, Jesse Thomason"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-student-volunteer-chairs:
-  name        : "Student Volunteer Chairs"
-  email       : ""
-  bio         : "Tao Yu"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-virtual-infrastructure-chairs:
-  name        : "Virtual Infrastructure Chairs"
-  email       : ""
-  bio         : "Pedro Rodriguez, Martín Villalba, Jiacheng Xu"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-ethics-chairs:
-  name        : "Ethics Chairs"
-  email       : ""
-  bio         : "Dirk Hovy"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-sponsorship-chairs:
-  name        : "Sponsorship Chairs"
-  email       : ""
-  bio         : "Lei Li, Alla Rozovskaya"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
-diversity-inclusion-chairs:
-  name        : "Diversity and Inclusion Chairs"
-  email       : ""
-  bio         : "Daniel Beck, Maryam Fazel-Zarandi, Nedjma Djouhra Ousidhoum"
-  avatar      : "assets/images/logos/acl-logo-square.jpg"
-
+sandeep-soni:
+  name        : "Sandeep Soni"
+  bio         : "Workshop Chair"
+  avatar      : "assets/images/people/sandeep_soni.jpg"

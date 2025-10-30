@@ -7,22 +7,34 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-## About Toronto
+## About Atlanta
 
-A multicultural metropolis on the shores of Lake Ontario, Toronto is Canada’s centre for arts, food, business and fun – all under the watchful gaze of the iconic CN Tower.
-Please visit [here](https://theculturetrip.com/north-america/canada/toronto/) for more details.
+A dynamic Southern capital where history meets innovation, Atlanta is a vibrant hub of civil rights heritage, world-class cuisine, thriving arts, and business – all beneath a skyline of soaring towers and lush urban canopy.
 
+Please visit [here](https://theculturetrip.com/north-america/usa/atlanta) for more details.
+
+## About Emory University
+
+A leading research university in Atlanta, Emory combines academic excellence with a beautiful campus of Georgian architecture, renowned for its contributions to healthcare, liberal arts, and global scholarship.
+
+Please visit [here](https://www.emory.edu) for more details.
 
 ## Conference Venue
 
-ACL 2023 will take place in the Westin Harbour Castle, Toronto:
-<!-- (https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/) -->
+SIGDIAL 2026 will take place at the [Emory Student Center](https://studentcenter.emory.edu/centers/emory-student-center.html):
 
-* Address: 1 Harbour Square, Toronto, ON M5J 1A6, Canada
-* Phone: +1 416-869-1600
+* **Address:** 605 Asbury Cir, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/GkdFedKLze2qV1Bq9))
+* **Phone:** +1 (404) 727-4636
 
-Please use the [direct hotel link](https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/) to see if they have availability or search [Bookings.com](https://www.booking.com) for other accommodations. We recommend you not hold off on booking as the Downtown area has a lot of events taking place the week of the ACL Conference. 
+## Accommodation
 
+Here are hotels nearby the conference venue:
+
+* [Emory Conference Center Hotel](https://www.emoryconferencecenter.com) (1.2 miles)
+* [The University Inn](https://www.univinn.com)
+* [Holiday Inn Express & Suites Decatur](https://www.ihg.com/holidayinnexpress/hotels/us/en/decatur/atlde/hoteldetail)
+
+Search [booking.com](https://www.booking.com) for additional accommodations in the area.
 
 <!-- 
 Group Block Valid until June 21, 2023 or Sold Out.<br>

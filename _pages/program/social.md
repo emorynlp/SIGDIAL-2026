@@ -1,7 +1,7 @@
 ---
 title: Social Programs
 layout: single
-excerpt: "ACL 2023 Social Programs."
+excerpt: "SIGDIAL 2026 Social Programs."
 permalink: /program/social/
 toc: false
 toc_sticky: true
