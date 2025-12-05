@@ -12,7 +12,7 @@ excerpt: "Atlanta, Georgia, USA<br>July 13-17, 2026"
 
 The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL'26) will take place at **Emory University** in **Atlanta, Georgia, USA** between **July 13th - 17th, 2026**.
 
-More information will be announced soon!
+The first call-of-papers is announced
 {: .text-center .notice--info}
 
 ## News
@@ -22,7 +22,8 @@ More information will be announced soon!
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2022-11-01 | The official SIGDIAL 2026 website is launched. |
+| 2025-12-05 | The first [call-of-papers](/calls/main_conference/) is announced. |
+| 2025-11-01 | The official SIGDIAL 2026 website is launched. |
 {: .news-table}
 
 ## Conference Schedule
@@ -33,6 +34,6 @@ More information will be announced soon!
 .dates-table del { color: #888; }
 </style>
 
-| Conference | July 13-15, 2026 |
-| Workshops | July 16-17, 2026 |
+| July 13-15, 2026 | SIGDIAL 2026 |
+| July 16-17, 2026 | YRRSDS and satellite workshops |
 {: .dates-table}
