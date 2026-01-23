@@ -22,11 +22,12 @@ The first call-of-papers is announced
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2025-12-05 | The first [call-of-papers](/calls/main_conference/) is announced. |
+| 2026-01-23 | The [Call for Workshops & Tutorials](/calls/workshops_tutorials/) is announced. |
+| 2025-12-05 | The first [Call for Papers](/calls/main_conference/) is announced. |
 | 2025-11-01 | The official SIGDIAL 2026 website is launched. |
 {: .news-table}
 
-## Conference Schedule
+## Schedule
 
 <style>
 .dates-table { font-size: .8em; }
@@ -34,6 +35,6 @@ The first call-of-papers is announced
 .dates-table del { color: #888; }
 </style>
 
-| July 13-15, 2026 | SIGDIAL 2026 |
-| July 16-17, 2026 | YRRSDS and satellite workshops |
+| July 13-15, 2026 | Main conference |
+| July 16-17, 2026 | Workshops and tutorials |
 {: .dates-table}

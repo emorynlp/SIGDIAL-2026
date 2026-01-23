@@ -29,7 +29,7 @@ sidebar:
    name="Kotaro Funakoshi"
    picture="/assets/images/people/kotaro_funakoshi.jpg"
    site="https://www.lr.pi.titech.ac.jp/wp_en/"
-   institution="Tokyo Institute of Technology (Japan)"
+   institution="Institute of Science Tokyo (Japan)"
 %}
 
 <h2>Local Chairs</h2>

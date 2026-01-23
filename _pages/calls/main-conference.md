@@ -29,7 +29,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | June 8, 2025     | Final camera-ready submission deadline |
 | June 15, 2025    | Early registration deadline |
 | July 13-15, 2026 | SIGDIAL 2026 |
-| July 16-17, 2026 | YRRSDS and satellite workshops |
+| July 16-17, 2026 | Workshops and tutorials |
 {: .dates-table}
 
 

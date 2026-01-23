@@ -24,8 +24,12 @@ calls:
     children:
       - title: "Main Conference"
         url: /calls/main_conference/
-      - title: "YRRSDS 2026"
-        url: /calls/yrrsds_2026/
+      # - title: "YRRSDS 2026"
+      #   url: /calls/yrrsds_2026/
+  - title: "Call for Proposals"
+    children:
+      - title: "Workshops & Tutorials"
+        url: /calls/workshops_tutorials/
 
 
 program:
