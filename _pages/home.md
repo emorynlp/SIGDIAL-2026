@@ -22,7 +22,8 @@ The first call-of-papers is announced
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2026-01-23 | The [Call for Workshops & Tutorials](/calls/workshops_tutorials/) is announced. |
+| 2026-01-26 | The second [Call for Papers](/calls/main_conference/) is announced. |
+| 2026-01-26 | The [Call for Workshops & Tutorials](/calls/workshops_tutorials/) is announced. |
 | 2025-12-05 | The first [Call for Papers](/calls/main_conference/) is announced. |
 | 2025-11-01 | The official SIGDIAL 2026 website is launched. |
 {: .news-table}

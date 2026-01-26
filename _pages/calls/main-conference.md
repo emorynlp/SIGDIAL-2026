@@ -22,8 +22,8 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 .dates-table del { color: #888; }
 </style>
 
-| March 16, 2026   | Abstract and title submission deadline |
-| March 23, 2026   | Paper submission (PDF only) |
+| March 23, 2026   | Abstract and title submission deadline |
+| March 30, 2026   | Paper submission (PDF only) |
 | May 4, 2026      | Reviews due and ARR commitment deadline |
 | May 25, 2026     | Paper notification |
 | June 8, 2025     | Final camera-ready submission deadline |
@@ -104,6 +104,6 @@ To broaden participation, SIGDIAL plans to support a number of selected students
 
 ## Program Chairs
 
-Contact: TBD
+Contact: sigdial2026_p@softconf.com
 
 SIGDIAL 2026 General Chair and Program Chairs

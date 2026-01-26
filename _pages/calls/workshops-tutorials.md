@@ -58,7 +58,7 @@ Workshop or tutorial proposals should be **2–4 pages** and must include the fo
 
 1. **Title and Type**: Specify if it is a Workshop or Tutorial.
 1. **Organizers**: List of organizers and their email addresses.
-1. **Sponsors**>: List of sponsors and funding amounts (if any).
+1. **Sponsors**: List of sponsors and funding amounts (if any).
 1. **Summary**: A brief overview of the topic.
 1. **Motivation**: Theoretical interest and/or application context.
 1. **Logistics**: Preferred duration and estimated number of attendees.
