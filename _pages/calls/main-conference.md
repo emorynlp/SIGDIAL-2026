@@ -82,7 +82,7 @@ The following submission types are expected:
 
 SIGDIAL accepts both regular submissions via the Softconf/START system and commitments of papers previously reviewed through ACL Rolling Review (ARR).
 
-* **Regular Submission (Softconf/START):** The title and abstract submission deadline is **March 16, 2026 (23:59 AOE)**. The authors are allowed to update ONLY the PDF until **March 23, 2026 (23:59 AOE)**. The submission site will be announced here soon.
+* **Regular Submission (Softconf/START):** The title and abstract submission deadline is **March 23, 2026 (23:59 AOE)**. The authors are allowed to update ONLY the PDF until **March 30, 2026 (23:59 AOE)**. The submission site will be announced here soon.
 * Authors may submit optional Limitations and Ethical Considerations sections for their paper if they so wish. These will not be counted against the page limit of 8 pages.
 * **[ACL Rolling Review (ARR)](https://aclrollingreview.org/) Commitment:** To commit your paper, fill the new submission form at the submission site above by giving the ID of the paper on ARR (https://openreview.net/forum?id=XXXXXXXXXXX) and a brief statement (1-2 sentences) on why your paper is relevant to the SIGDIAL before **May 4, 2026 (23:59 AOE)**.
 
