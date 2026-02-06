@@ -22,14 +22,14 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 .dates-table del { color: #888; }
 </style>
 
-| March 23, 2026   | Abstract and title submission deadline |
-| March 30, 2026   | Paper submission (PDF only) |
-| May 4, 2026      | Reviews due and ARR commitment deadline |
-| May 25, 2026     | Paper notification |
-| June 8, 2025     | Final camera-ready submission deadline |
-| June 15, 2025    | Early registration deadline |
-| July 13-15, 2026 | SIGDIAL 2026 |
-| July 16-17, 2026 | Workshops and tutorials |
+| April 13, 2026   | Abstract and title submission deadline |
+| April 20, 2026   | Paper submission (PDF only) |
+| May 25, 2026     | Reviews due and ARR commitment deadline |
+| June 15, 2026    | Paper notification |
+| June 29, 2026    | Final camera-ready submission deadline |
+| July 6, 2026     | Early registration deadline |
+| August 1-2, 2026 | Workshops and tutorials |
+| August 3-5, 2026 | Main Conference |
 {: .dates-table}
 
 

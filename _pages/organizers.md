@@ -47,3 +47,12 @@ sidebar:
    site="https://sandeepsoni.github.io"
    institution="Emory University (USA)"
 %}
+
+<h2>Sponsorship Chair</h2>
+
+{% include committee-member.html
+   name="Teruhisa Misu"
+   picture="/assets/images/people/teruhisa_misu.jpg"
+   site="https://scholar.google.com/citations?user=4LAT5WYAAAAJ"
+   institution="Honda Research Institute (USA)"
+%}
