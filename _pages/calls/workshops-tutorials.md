@@ -26,8 +26,8 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 | March 16, 2026   | Proposal notification |
 | March 30, 2026   | Workshop/tutorial initial website |
 | April 6, 2026    | First call-for-papers (if applicable) |
-| July 13-15, 2026 | Main conference |
-| July 16-17, 2026 | Workshops and tutorials |
+| August 1-2, 2026 | Workshops and tutorials |
+| August 3-5, 2026 | Main Conference |
 {: .dates-table}
 
 ## Topics of Interest

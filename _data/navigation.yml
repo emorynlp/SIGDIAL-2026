@@ -20,14 +20,10 @@ main:
   #   url: /sponsors/
 
 calls:
-  - title: "Call for Papers"
+  - title: "Call for"
     children:
-      - title: "Main Conference"
+      - title: "Conference Papers"
         url: /calls/main_conference/
-      # - title: "YRRSDS 2026"
-      #   url: /calls/yrrsds_2026/
-  - title: "Call for Proposals"
-    children:
       - title: "Workshops & Tutorials"
         url: /calls/workshops_tutorials/
 

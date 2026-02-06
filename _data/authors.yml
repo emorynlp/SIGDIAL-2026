@@ -24,3 +24,8 @@ sandeep-soni:
   name        : "Sandeep Soni"
   bio         : "Workshop Chair"
   avatar      : "assets/images/people/sandeep_soni.jpg"
+
+teruhisa-misu:
+name        : "Teruhisa Misu"
+bio         : "Sponsorship Chair"
+avatar      : "assets/images/people/teruhisa_misu.jpg"
