@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-The 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2026) will be held in Atlanta, Georgia. 
+The 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL) will be held in Atlanta, Georgia on August 1-5, 2026.
 
 We are pleased to announce the call for workshop and tutorial proposals for SIGDIAL 2026. We encourage proposals on any topic of interest to the discourse and dialogue communities. This program aims to offer new perspectives and foster collaboration among researchers working on related topics. We particularly welcome sessions that bridge the gap between sub-communities within SIGDIAL.
 
