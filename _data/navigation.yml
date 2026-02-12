@@ -6,6 +6,8 @@ main:
   #   url: /program/
   - title: "Venue"
     url: /venue/
+  - title: "Keynotes"
+    url: /keynotes/larry_hack
   - title: "Organizers"
     url: /organizers/
   - title: "FAQ"
@@ -27,6 +29,13 @@ calls:
       - title: "Workshops & Tutorials"
         url: /calls/workshops_tutorials/
 
+keynotes:
+  - title: "Keynote Speakers"
+    children:
+      - title: "Day 1: Larry Hack"
+        url: /keynotes/larry_hack/
+      - title: "Day 2: Nanyun (Violet) Peng"
+        url: /keynotes/nanyun_peng/
 
 program:
   - title: "Programs"

@@ -1,0 +1,16 @@
+<div itemscope itemtype="https://schema.org/Person" style="width: 100%; display: table;">
+    <div style="display: table-row;">
+        <div class="author__avatar" style="display: table-cell; padding-bottom: 5px;">
+          <img src="{{ include.picture | relative_url }}" alt="{{ include.name }}" itemprop="image" style="max-width: 200px; width: 200px; height: 200px; object-fit: cover; border-radius: 0;">
+        </div>
+        <div class="author__content" style="display: table-cell; padding-left: 15px;">
+          <h2 class="author__name" itemprop="name" style="border-bottom: none;">
+            {% if include.site == null %}{{ include.name }}{% else %}<a href="{{ include.site }}">{{ include.name }}</a>{% endif %}
+            {% if include.extrainfo != null %}<em>{{ include.extrainfo }}</em>{% endif %}
+          </h2>
+          <p class="author__bio" itemprop="description">{{ include.title }}</p>
+          <p class="author__bio" itemprop="description">{{ include.institution }}</p>
+          <p class="author__bio" itemprop="description">{{ include.talkinfo }}</p>
+        </div>
+    </div>
+</div>
