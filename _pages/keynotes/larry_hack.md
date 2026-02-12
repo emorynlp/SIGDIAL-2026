@@ -1,7 +1,7 @@
 ---
 title: Keynote Speaker
 layout: single
-permalink: /keynotes/larry_hack
+permalink: /keynotes/larry_hack/
 sidebar:
     nav: "keynotes"
 classes: wide

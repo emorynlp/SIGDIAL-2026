@@ -1,7 +1,7 @@
 ---
 title: Keynote Speaker
 layout: single
-permalink: /keynotes/nanyun_peng
+permalink: /keynotes/nanyun_peng/
 sidebar:
     nav: "keynotes"
 classes: wide
