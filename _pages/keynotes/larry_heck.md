@@ -1,7 +1,7 @@
 ---
 title: Keynote Speaker
 layout: single
-permalink: /keynotes/larry_hack/
+permalink: /keynotes/larry_heck/
 sidebar:
     nav: "keynotes"
 classes: wide
@@ -10,7 +10,7 @@ classes: wide
 ## August 3 (Monday)
 
 {% include keynotes.html
-   name="Larry Hack"
+   name="Larry Heck"
    picture="/assets/images/people/larry_hack.jpg"
    site="https://larryheck.github.io"
    title="Professor of Electrical and Computer Engineering and Interactive Computing"
