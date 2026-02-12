@@ -11,7 +11,7 @@ classes: wide
 
 {% include keynotes.html
    name="Larry Heck"
-   picture="/assets/images/people/larry_hack.jpg"
+   picture="/assets/images/people/larry_heck.jpg"
    site="https://larryheck.github.io"
    title="Professor of Electrical and Computer Engineering and Interactive Computing"
    institution="Georgia Institute of Technology"
