@@ -12,7 +12,7 @@ classes: wide
 {% include keynotes.html
    name="Nanyun (Violet) Peng"
    picture="/assets/images/people/nanyun_peng.jpg"
-   site="https://larryheck.github.io"
+   site="https://violetpeng.github.io"
    title="Associate Professor of Computer Science"
    institution="University of California, Los Angeles"
    talkinfo="Time: TBD, Location: TBD"
