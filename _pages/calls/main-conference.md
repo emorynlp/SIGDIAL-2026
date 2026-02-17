@@ -82,13 +82,13 @@ The following submission types are expected:
 
 SIGDIAL accepts both regular submissions via the Softconf/START system and commitments of papers previously reviewed through ACL Rolling Review (ARR).
 
-* **Regular Submission (Softconf/START):** The title and abstract submission deadline is **April 13, 2026 (23:59 AOE)**. The authors are allowed to update ONLY the PDF until **April 20, 2026 (23:59 AOE)**. The submission site will be announced here soon.
+* **Regular Submission (Softconf/START):** The title and abstract submission deadline is **April 13, 2026 (23:59 AOE)**. The authors are allowed to update ONLY the PDF until **April 20, 2026 (23:59 AOE)**. The submission site is here: [https://softconf.com/p/sigdial2026](https://softconf.com/p/sigdial2026).
 * Authors may submit optional Limitations and Ethical Considerations sections for their paper if they so wish. These will not be counted against the page limit of 8 pages.
 * **[ACL Rolling Review (ARR)](https://aclrollingreview.org/) Commitment:** To commit your paper, fill the new submission form at the submission site above by giving the ID of the paper on ARR (https://openreview.net/forum?id=XXXXXXXXXXX) and a brief statement (1-2 sentences) on why your paper is relevant to the SIGDIAL before **May 25, 2026 (23:59 AOE)**.
 
-## Mentoring Program
+<!-- ## Mentoring Program
 
-SIGDIAL 2026 offers a mentoring program to assist authors whose submissions show promise but require improvement in language or organization. Accepted papers flagged for mentoring will receive guidance from experienced SIGDIAL members to prepare their work for publication.
+SIGDIAL 2026 offers a mentoring program to assist authors whose submissions show promise but require improvement in language or organization. Accepted papers flagged for mentoring will receive guidance from experienced SIGDIAL members to prepare their work for publication. -->
 
 ## Best Paper Awards
 
