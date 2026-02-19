@@ -8,6 +8,8 @@ main:
     url: /venue/
   - title: "Keynotes"
     url: /keynotes/larry_heck
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "Organizers"
     url: /organizers/
   - title: "FAQ"
@@ -18,8 +20,6 @@ main:
   #   url: /registration/
   # - title: "Participants"
   #   url: /participants/about_acl/
-  # - title: "Sponsors"
-  #   url: /sponsors/
 
 calls:
   - title: "Call for"
@@ -28,6 +28,10 @@ calls:
         url: /calls/main_conference/
       - title: "Workshops & Tutorials"
         url: /calls/workshops_tutorials/
+  - title: "Invitation to"
+    children:
+      - title: "Sponsors"
+        url: /calls/sponsors/
 
 keynotes:
   - title: "Keynote Speakers"

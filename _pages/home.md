@@ -22,6 +22,7 @@ SIGDIAL'26 has been rescheduled to August 1-5 to accommodate the FIFA World Cup 
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2026-02-19 | The [Invitation to Sponsors](/calls/sponsors/) is announced. |
 | 2026-02-05 | SIGDIAL'26 is [rescheduled](/date-reschedule/) to August 1-5. |
 | 2026-01-26 | The second [Call for Papers](/calls/main_conference/) is announced. |
 | 2026-01-26 | The first [Call for Workshops & Tutorials](/calls/workshops_tutorials/) is announced. |
