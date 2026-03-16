@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-The 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL) will be held in Atlanta, Georgia on August 1-5, 2026.
+The 27th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL) will be held in Atlanta, Georgia on August 2-5, 2026.
 
 The SIGDIAL venue provides a regular forum for the presentation of cutting-edge research in dialogue and discourse to both academic and industry researchers, continuing a series of 26 successful previous meetings. The conference is sponsored by the SIGDIAL organization – the Special Interest Group in discourse and dialogue for ACL and ISCA.
 
@@ -24,11 +24,11 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 | April 13, 2026   | Abstract and title submission deadline |
 | April 20, 2026   | Paper submission (PDF only) |
-| May 25, 2026     | Reviews due and ARR commitment deadline |
-| June 15, 2026    | Paper notification |
+| May 20, 2026     | Reviews due and ARR commitment deadline |
+| June 1, 2026     | Paper notification |
 | June 29, 2026    | Final camera-ready submission deadline |
 | July 6, 2026     | Early registration deadline |
-| August 1-2, 2026 | Workshops and tutorials |
+| August 2, 2026   | Workshops and tutorials |
 | August 3-5, 2026 | Main Conference |
 {: .dates-table}
 
