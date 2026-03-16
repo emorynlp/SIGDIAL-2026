@@ -1,7 +1,7 @@
 ---
-title: Social Programs
+title: Social Program
 layout: single
-excerpt: "SIGDIAL 2026 Social Programs."
+excerpt: "SIGDIAL 2026 Social Program."
 permalink: /program/social/
 toc: false
 toc_sticky: true
@@ -12,6 +12,6 @@ sidebar:
 
 ## Event Schedule
 
-* Time: July 11th (7:00 PM - 10:30 PM)
-* Location: [Steam Whistle Brewing / Canada’s Premium Beer](https://steamwhistle.ca)
+* Time: August 4th (7:00 PM - 9:30 PM)
+* Location: [Sycamore Chapel](https://sycamorechapel.com)
 * Name badge required to access

@@ -2,16 +2,16 @@
 main:
   - title: "Calls"
     url: /calls/main_conference/
-  # - title: "Program"
-  #   url: /program/
-  - title: "Venue"
-    url: /venue/
+  - title: "Program"
+    url: /program/
   - title: "Keynotes"
     url: /keynotes/larry_heck
   - title: "Sponsors"
     url: /sponsors/
   - title: "Organizers"
     url: /organizers/
+  - title: "Venue"
+    url: /venue/
   - title: "FAQ"
     url: /faq/
   - title: "Blog"
@@ -48,30 +48,26 @@ program:
         url: /program/
       - title: "Workshops"
         url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
   - title: Events
     children:
-      - title: "Keynotes"
-        url: /program/keynotes/
-      - title: "Social Programs"
+      - title: "Social Program"
         url: /program/social/
-  - title: Awards
-    children:
-      - title: "Best Papers"
-        url: /program/best_papers/
-      - title: "Best Reviewers"
-        url: /program/best_reviewers/
-  - title: "Accepted Papers"
-    children:
-      - title: "Main Conference"
-        url: /program/accepted_main_conference/
-      - title: "Findings"
-        url: /program/accepted_findings/
-      - title: "Industry Track"
-        url: /program/accepted_industry_track/
-      - title: "System Demonstration"
-        url: /program/accepted_system_demonstration/
+  # - title: Awards
+  #   children:
+  #     - title: "Best Papers"
+  #       url: /program/best_papers/
+  #     - title: "Best Reviewers"
+  #       url: /program/best_reviewers/
+  # - title: "Accepted Papers"
+  #   children:
+  #     - title: "Main Conference"
+  #       url: /program/accepted_main_conference/
+  #     - title: "Findings"
+  #       url: /program/accepted_findings/
+  #     - title: "Industry Track"
+  #       url: /program/accepted_industry_track/
+  #     - title: "System Demonstration"
+  #       url: /program/accepted_system_demonstration/
 
 
 
