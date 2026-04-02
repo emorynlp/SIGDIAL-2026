@@ -24,7 +24,7 @@ Please refer to each individual event's website for more details.
 * **Schedule**: Full-day
 * **Location**: TBD
 
-### YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers
+### [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/)
 
 * **Organizers**: Winston Zeng, Sturgill
 * **Schedule**: Full-day
