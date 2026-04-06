@@ -10,7 +10,7 @@ sidebar:
 
 Please refer to each individual event's website for more details.
 
-## August 3 (Sunday)
+## August 2 (Sunday)
 
 ### [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/)
 
