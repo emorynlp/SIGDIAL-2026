@@ -22,6 +22,7 @@ SIGDIAL'26 has been rescheduled to August 2-5 to accommodate the FIFA World Cup 
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2026-04-13 | All three [keynote speakers](/keynotes/larry_heck/) are confirmed. |
 | 2026-04-01 | Workshop websites are linked in the [Workshops](/program/workshops/) page. |
 | 2026-02-19 | The [Invitation to Sponsors](/calls/sponsors/) is announced. |
 | 2026-02-05 | SIGDIAL'26 is [rescheduled](/date-reschedule/) to August 2-5. |
