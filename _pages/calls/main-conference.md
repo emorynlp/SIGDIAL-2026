@@ -24,7 +24,8 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 | April 13, 2026   | Abstract and title submission deadline |
 | April 20, 2026   | Paper submission (PDF only) |
-| May 20, 2026     | Reviews due and ARR commitment deadline |
+| May 20, 2026     | Reviews due |
+| May 25, 2026     | ARR commitment deadline |
 | June 1, 2026     | Paper notification |
 | June 29, 2026    | Final camera-ready submission deadline |
 | July 6, 2026     | Early registration deadline |
@@ -84,7 +85,7 @@ SIGDIAL accepts both regular submissions via the Softconf/START system and commi
 
 * **Regular Submission (Softconf/START):** The title and abstract submission deadline is **April 13, 2026 (23:59 AOE)**. The authors are allowed to update ONLY the PDF until **April 20, 2026 (23:59 AOE)**. The submission site is here: [https://softconf.com/p/sigdial2026](https://softconf.com/p/sigdial2026).
 * Authors may submit optional Limitations and Ethical Considerations sections for their paper if they so wish. These will not be counted against the page limit of 8 pages.
-* **[ACL Rolling Review (ARR)](https://aclrollingreview.org/) Commitment:** To commit your paper, fill the new submission form at the submission site above by giving the ID of the paper on ARR (https://openreview.net/forum?id=XXXXXXXXXXX) and a brief statement (1-2 sentences) on why your paper is relevant to the SIGDIAL before **May 25, 2026 (23:59 AOE)**.
+* **[ACL Rolling Review (ARR)](https://aclrollingreview.org/) Commitment:** To commit your paper, fill the new submission form at the submission site above by giving the ID of the paper on ARR (https://openreview.net/forum?id=XXXXXXXXXXX) and a brief statement (1-2 sentences) on why your paper is relevant to the SIGDIAL before **May 25, 2026 (23:59 AOE)**. The submission page for ARR papers will be available after April 20, the regular submission deadline.
 
 <!-- ## Mentoring Program
 
