@@ -55,3 +55,12 @@ sidebar:
    site="https://scholar.google.com/citations?user=4LAT5WYAAAAJ"
    institution="Honda Research Institute (USA)"
 %}
+
+<h2>Publication Chair</h2>
+
+{% include organizers.html
+   name="Ali Emami"
+   picture="/assets/images/people/ali_emami.jpg"
+   site="https://ali-emami.com/"
+   institution="Emory University (USA)"
+%}

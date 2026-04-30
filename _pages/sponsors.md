@@ -12,6 +12,14 @@ platinum:
   #   alt: Amazon
   #   title: Amazon
 gold:
+  - url: https://www.apple.com/
+    image_path: /assets/images/sponsors/apple.jpg
+    alt: Apple
+    title: Apple
+  - url: https://computerscience.emory.edu/
+    image_path: /assets/images/sponsors/emory-cs.jpg
+    alt: Emory University Department of Computer Science
+    title: Emory University Department of Computer Science
 silver:
 bronze:
 ---
