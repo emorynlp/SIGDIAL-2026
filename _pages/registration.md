@@ -16,6 +16,9 @@ All presentations are expected to be in-person. Exceptions may be granted only f
 
 All papers in the program must have at least one author registered at the appropriate rate for their presentation modality and status. Authors approved for virtual presentation pay the same registration rate as in-person presenters. Papers with no registered author will be removed from the proceedings.
 
+Registration will open on June 1, 2026, following paper notifications.
+{: .notice--info .text-center}
+
 ## Registration Fees
 
 <style>

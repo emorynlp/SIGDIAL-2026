@@ -4,6 +4,8 @@ main:
     url: /calls/main_conference/
   - title: "Program"
     url: /program/
+  - title: "Registration"
+    url: /registration/
   - title: "Keynotes"
     url: /keynotes/larry_heck
   - title: "Sponsors"
@@ -12,12 +14,10 @@ main:
     url: /organizers/
   - title: "Venue"
     url: /venue/
-  - title: "FAQ"
-    url: /faq/
+  # - title: "FAQ"
+  #   url: /faq/
   - title: "Blog"
     url: /blog/
-  # - title: "Registration"
-  #   url: /registration/
   # - title: "Participants"
   #   url: /participants/about_acl/
 
@@ -74,32 +74,30 @@ program:
 
 
 
-committees:
-  - title: "Committees"
-    children:
-      - title: "Organizing Committee"
-        url: /committees/organization/
-      - title: "Program Committee"
-        url: /committees/program/
-      - title: "Best Paper Committee"
-        url: /committees/best_paper/
+# committees:
+#   - title: "Committees"
+#     children:
+#       - title: "Organizing Committee"
+#         url: /committees/organization/
+#       - title: "Program Committee"
+#         url: /committees/program/
+#       - title: "Best Paper Committee"
+#         url: /committees/best_paper/
 
-participants:
-  - title: "Participants Information"
-    children:
-      - title: "About ACL"
-        url: /participants/about_acl/
-      - title: "Invitation Letter"
-        url: /participants/invitation_letter/
-      - title: "Ethical Policies"
-        url: /participants/ethical_policies/
-      - title: "Cancellation Policy"
-        url: /participants/cancellation_policy/
+# participants:
+#   - title: "Participants Information"
+#     children:
+#       - title: "About ACL"
+#         url: /participants/about_acl/
+#       - title: "Invitation Letter"
+#         url: /participants/invitation_letter/
+#       - title: "Ethical Policies"
+#         url: /participants/ethical_policies/
+#       - title: "Cancellation Policy"
+#         url: /participants/cancellation_policy/
 
-registration:
-  - title: "Registration"
-    children:
-      - title: "Registration"
-        url: /registration/
-      - title: "Discounted Virtual Registration"
-        url: /registration/discounted_virtual_registration/
+# registration:
+#   - title: "Registration"
+#     children:
+#       - title: "Registration"
+#         url: /registration/
