@@ -14,7 +14,7 @@ Please refer to each individual event's website for more details.
 
 ### [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/)
 
-* **Organizers**: Luis Fernando D'Haro, Rafael Banchs, Koichiro Yoshino, Mahed Mousavi
+* **Organizers**: Luis Fernando D’Haro, Andreea I. Niculescu, Rafael Banchs, Lina María Rojas Barahona,  Mahed Mousavi,  Koichiro Yoshino, Anmol Guragain.
 * **Schedule**: Half-day
 * **Location**: TBD
 
