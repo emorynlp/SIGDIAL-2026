@@ -30,9 +30,9 @@ Check the websites of individual workshops for more details about their schedule
 
 | Start | End | Event |
 |:-----:|:---:|-------|
-| | | [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/) (half-day) |
-| | | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) (full-day) |
-| | | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/) (full-day) |
+| TBD | TBD | [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/) (half-day) |
+| TBD | TBD | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) (full-day) |
+| TBD | TBD | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/) (full-day) |
 {: .program-table}
 
 ## August 3 (Monday) — Main Conference (Day 1)
