@@ -48,6 +48,8 @@ program:
     children:
       - title: "Conference Overview"
         url: /program/
+      - title: "Accepted Papers"
+        url: /program/accepted_papers/
       - title: "Workshops"
         url: /program/workshops/
   - title: Events
@@ -60,16 +62,6 @@ program:
   #       url: /program/best_papers/
   #     - title: "Best Reviewers"
   #       url: /program/best_reviewers/
-  # - title: "Accepted Papers"
-  #   children:
-  #     - title: "Main Conference"
-  #       url: /program/accepted_main_conference/
-  #     - title: "Findings"
-  #       url: /program/accepted_findings/
-  #     - title: "Industry Track"
-  #       url: /program/accepted_industry_track/
-  #     - title: "System Demonstration"
-  #       url: /program/accepted_system_demonstration/
 
 
 
