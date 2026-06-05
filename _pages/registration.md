@@ -9,15 +9,11 @@ sidebar:
     nav: registration
 ---
 
-<!-- **Registration is now closed.**
-{: .notice .notice--info .text-center} -->
-
 All presentations are expected to be in-person. Exceptions may be granted only for circumstances beyond the presenter's control, such as a visa denial. To request an exception, submit an official confirmation of your visa appointment to demonstrate your effort. The program chairs will make the final decision.
 
 All papers in the program must have at least one author registered at the appropriate rate for their presentation modality and status. Authors approved for virtual presentation pay the same registration rate as in-person presenters. Papers with no registered author will be removed from the proceedings.
 
-<!-- Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gle/Gn2Bmo163hbjEcB9A) -->
-Registration site is temporarily down. We will resume as soon as the technical challenge is resolved (within 24 hours). Sorry for the inconvinience. 
+Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gle/Gn2Bmo163hbjEcB9A)
 {: .notice .notice--info .text-center}
 
 ## Visa Support Letters
