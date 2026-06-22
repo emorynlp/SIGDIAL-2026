@@ -28,6 +28,8 @@ calls:
         url: /calls/main_conference/
       - title: "Workshops & Tutorials"
         url: /calls/workshops_tutorials/
+      - title: "Participation"
+        url: /calls/participants/
   - title: "Invitation to"
     children:
       - title: "Sponsors"

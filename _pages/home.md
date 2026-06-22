@@ -22,6 +22,7 @@ Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gl
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2026-06-22 | [Call for Participation](/calls/participants) is posted. |
 | 2026-06-04 | [Accepted papers](/program/accepted_papers) are posted. |
 | 2026-06-03 | [Registration](/registration) is open. |
 | 2026-04-13 | All three [keynote speakers](/keynotes/larry_heck/) are confirmed. |

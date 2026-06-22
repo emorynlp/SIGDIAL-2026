@@ -101,7 +101,7 @@ All accepted papers must be presented in person at the conference venue in eithe
 
 ## Student Travel Grant
 
-To broaden participation, SIGDIAL plans to support a number of selected students for paper presentations at SIGDIAL. Details of application for the grant will be announced soon.
+To broaden participation, SIGDIAL plans to support a number of selected students for paper presentations at SIGDIAL. Details of application for the grant can be found in the [registration](/registration) page.
 
 ## Program Chairs
 

@@ -20,6 +20,16 @@ Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gl
 
 The registration form includes a field to request a visa support letter. We issue letters only to registrants who have completed registration and paid the applicable fee for their category.
 
+
+## Student Travel Grant
+
+ISCA student members may be eligible for a travel grant. Note that SIGDIAL 2026 is not currently listed on the ISCA grant site, but the process of getting it listed is underway. Please refer to the ISCA grant site for details:
+
+[https://www.isca-speech.org/Grants](https://www.isca-speech.org/Grants)
+
+Additionally, SIGdial plans to support a limited number of students for paper presentations at SIGdial. Priority will be given to presenters making international travels. This grant is made to only those who complete the early registration.
+
+
 ## Registration Fees
 
 <style>
