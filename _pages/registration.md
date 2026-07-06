@@ -44,13 +44,13 @@ Additionally, SIGdial plans to support a limited number of students for paper pr
 | Main Conference + Workshops (Student) | $350  | $450  |
 | Workshops Only                        | $150  | $180  |
 | Keynote Speakers                      | $0    | $0    |
-| Student Volunteers                    | $0    | $0    |
+| Student Volunteers                    | Reimbursed after selection | Reimbursed after selection |
 {: .dates-table}
 
 * **Main Conference + Workshops** registration includes admission to all conference and workshop sessions, conference materials, refreshments during coffee breaks, and the [social event](/program/social/) (August 4).
 * **Workshops Only** registration includes admission to all workshop sessions on August 2.
 * There is **no Main Conference Only** option.
-* Call for student volunteers will be announced after the paper acceptance.
+* [Student volunteers](/calls/volunteers/) must register before applying, and their registration fee will be reimbursed if selected.
 * Early registration ends on July 6, 2026, 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 

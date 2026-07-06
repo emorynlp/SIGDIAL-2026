@@ -30,7 +30,7 @@ Please visit the [Registration](/registration/) page for the registration form a
 | Main Conference + Workshops (Student) | $350  | $450  |
 | Workshops Only                        | $150  | $180  |
 | Keynote Speakers                      | $0    | $0    |
-| Student Volunteers                    | $0    | $0    |
+| Student Volunteers                    | Reimbursed after selection | Reimbursed after selection |
 {: .dates-table}
 
 ## Keynote Speakers
