@@ -1,7 +1,7 @@
 ---
-title: Conference Overview
+title: Program Overview
 layout: single
-excerpt: "SIGDIAL 2026 Conference Overview."
+excerpt: "SIGDIAL 2026 Program Overview."
 permalink: /program/
 sidebar:
     nav: program
@@ -32,10 +32,10 @@ Check the websites of individual workshops for more details about their schedule
 |:-----:|:---:|-------|
 | TBD | TBD | [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/) (half-day) |
 | 09:30 | 17:00 | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) (full-day) |
-| TBD | TBD | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/) (full-day) |
+| TBD | TBD | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/) (half-day) |
 {: .program-table}
 
-## August 3 (Monday) — Main Conference (Day 1)
+## August 3 (Monday) — Main Conference ([Day 1](/program/day1/))
 
 | Start | End | Event |
 |:-----:|:---:|-------|
@@ -50,7 +50,7 @@ Check the websites of individual workshops for more details about their schedule
 | 16:00 | 17:30 | Poster Session 1 |
 {: .program-table}
 
-## August 4 (Tuesday) — Main Conference (Day 2)
+## August 4 (Tuesday) — Main Conference ([Day 2](/program/day2/))
 
 | Start | End | Event |
 |:-----:|:---:|-------|
@@ -66,7 +66,7 @@ Check the websites of individual workshops for more details about their schedule
 | 19:00 | 21:30 | [Social Event](/program/social/) |
 {: .program-table}
 
-## August 5 (Wednesday) — Main Conference (Day 3)
+## August 5 (Wednesday) — Main Conference ([Day 3](/program/day3/))
 
 | Start | End | Event |
 |:-----:|:---:|-------|
@@ -77,6 +77,6 @@ Check the websites of individual workshops for more details about their schedule
 | 12:00 | 13:30 | Lunch Break |
 | 13:30 | 15:00 | Poster Session 3 |
 | 15:00 | 15:30 | Coffee break |
-| 15:30 | 16:30 | Invited Talk |
-| 16:30 | 17:00 | Awards & Closing |
+| 15:30 | 16:00 | Invited Talk |
+| 16:00 | 17:00 | Awards & Closing |
 {: .program-table}
