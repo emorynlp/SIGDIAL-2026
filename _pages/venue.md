@@ -21,10 +21,10 @@ Please visit [here](https://www.emory.edu) for more details.
 
 ## Conference Venue
 
-SIGDIAL 2026 will take place at the [Emory Student Center](https://studentcenter.emory.edu/centers/emory-student-center.html):
+SIGDIAL 2026 will take place at the [Psychology and Interdisciplinary Sciences (PAIS)](https://filming.emory.edu/film-locations/mc_pais.html) Building at Emory University:
 
-* **Address:** 605 Asbury Cir, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/GkdFedKLze2qV1Bq9))
-* **Phone:** +1 (404) 727-4636
+* **Address**: 36 Eagle Row, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/jEBd2VwDoKmgaHDu6))
+* **Important**: The building is locked during the summer. Please use the entrance by the [main lobby](/assets/images/atlanta/pais_lobby.jpg), where student volunteers will be available to let you in.
 
 ## Accommodation
 

@@ -16,7 +16,7 @@ toc_icon: "cog"
 .program-table tr td:nth-child(2) { width: 5em; white-space: nowrap; vertical-align: top; }
 </style>
 
-SIGDIAL 2026 runs **August 2–5, 2026** at the [Emory Student Center](/venue/). **August 2 (Sun)** is dedicated to [workshops](/program/workshops/). The **main conference** takes place **August 3-5 (Mon–Wed)**.
+SIGDIAL 2026 is held at the [Psychology and Interdisciplinary Sciences (PAIS)](/venue/#conference-venue) Building at Emory University. **August 2 (Sun)** is dedicated to [workshops](/program/day0/). The **main conference** takes place **August 3-5 (Mon–Wed)**.
 
 <!-- ## Instructions for Presenters
 
@@ -24,15 +24,13 @@ SIGDIAL 2026 runs **August 2–5, 2026** at the [Emory Student Center](/venue/).
 
 **Poster / Demo Presentation:** Set up in the designated area before the poster session. Posters are mounted during the session and removed after the session. Preferred poster size is **A0 portrait**; landscape is possible where space allows. -->
 
-## August 2 (Sunday) — Workshops
-
-Check the websites of individual workshops for more details about their schedules and organizers.
+## August 2 (Sunday) — Workshops ([Day 0](/program/day0/))
 
 | Start | End | Event |
 |:-----:|:---:|-------|
-| TBD | TBD | [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/) (half-day) |
-| 09:30 | 17:00 | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) (full-day) |
-| TBD | TBD | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/) (half-day) |
+| 9:00 | 13:30 | [WOCHAT: Workshop on Chatbots and Agentic Technologies](/program/day0#wochat-workshop-on-chatbots-and-agentic-technologies) |
+| 14:30 | 18:00 | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](/program/day0#yrrsds-workshop-on-spoken-dialogue-systems-for-phds-postdocs--new-researchers) |
+| TBD | TBD | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](/program/day0#found-in-translation-speaking-the-same-language-about-genai-to-support-multilingual-users) |
 {: .program-table}
 
 ## August 3 (Monday) — Main Conference ([Day 1](/program/day1/))
@@ -41,13 +39,13 @@ Check the websites of individual workshops for more details about their schedule
 |:-----:|:---:|-------|
 | 08:00 | 09:00 | Registration |
 | 09:00 | 09:30 | Opening |
-| 09:30 | 10:30 | Keynote 1: [Larry Heck](/keynotes/larry_heck/) |
+| 09:30 | 10:30 | [Keynote 1: Larry Heck](/keynotes/larry_heck/) |
 | 10:30 | 11:00 | Coffee Break |
-| 11:00 | 12:30 | Oral Session 1 |
+| 11:00 | 12:30 | [Oral Session 1](/program/day1/#oral-session-1) |
 | 12:30 | 14:00 | Lunch Break |
-| 14:00 | 15:30 | Oral Session 2 |
+| 14:00 | 15:30 | [Oral Session 2](/program/day1/#oral-session-2) |
 | 15:30 | 16:00 | Coffee break |
-| 16:00 | 17:30 | Poster Session 1 |
+| 16:00 | 17:30 | [Poster Session 1](/program/day1/#poster-session-1) |
 {: .program-table}
 
 ## August 4 (Tuesday) — Main Conference ([Day 2](/program/day2/))
@@ -55,14 +53,14 @@ Check the websites of individual workshops for more details about their schedule
 | Start | End | Event |
 |:-----:|:---:|-------|
 | 08:30 | 09:00 | Registration |
-| 09:00 | 10:00 | Keynote 2: [Nanyun (Violet) Peng](/keynotes/nanyun_peng/) |
+| 09:00 | 10:00 | [Keynote 2: Nanyun (Violet) Peng](/keynotes/nanyun_peng/) |
 | 10:00 | 10:30 | Coffee Break |
-| 10:30 | 12:00 | Oral Session 3 |
+| 10:30 | 12:00 | [Oral Session 3](/program/day2/#oral-session-3) |
 | 12:00 | 13:30 | Lunch Break |
-| 13:30 | 14:00 | Business Meeting |
-| 14:00 | 15:30 | Oral Session 4 |
+| 13:30 | 14:00 | [Business Meeting](/program/day2/#business-meeting) |
+| 14:00 | 15:30 | [Oral Session 4](/program/day2/#oral-session-4) |
 | 15:30 | 16:00 | Coffee break |
-| 16:00 | 17:30 | Poster Session 2 |
+| 16:00 | 17:30 | [Poster Session 2](/program/day2/#poster-session-2) |
 | 19:00 | 21:30 | [Social Event](/program/social/) |
 {: .program-table}
 
@@ -71,12 +69,12 @@ Check the websites of individual workshops for more details about their schedule
 | Start | End | Event |
 |:-----:|:---:|-------|
 | 08:30 | 09:00 | Registration |
-| 09:00 | 10:00 | Keynote 3: [Dilek Hakkani-Tür](/keynotes/dilek_hakkani_tur/) |
+| 09:00 | 10:00 | [Keynote 3: Dilek Hakkani-Tür](/keynotes/dilek_hakkani_tur/) |
 | 10:00 | 10:30 | Coffee Break |
-| 10:30 | 12:00 | Oral Session 5 |
+| 10:30 | 12:00 | [Oral Session 5](/program/day3/#oral-session-5) |
 | 12:00 | 13:30 | Lunch Break |
-| 13:30 | 15:00 | Poster Session 3 |
+| 13:30 | 15:00 | [Poster Session 3](/program/day3/#poster-session-3) |
 | 15:00 | 15:30 | Coffee break |
-| 15:30 | 16:00 | Invited Talk |
+| 15:30 | 16:00 | [Invited Talk](/program/day3/#invited-talk) |
 | 16:00 | 17:00 | Awards & Closing |
 {: .program-table}

@@ -32,7 +32,9 @@ sidebar:
 | 16:00 | 17:00 | Awards & Closing |
 {: .program-table}
 
-* *<span class="presenter">Blue names</span> indicate the presenter.*
+* All oral sessions are are held at PAIS 290.
+* All poster sessions are held in the PAIS main lobby.
+* <span class="presenter">Blue names</span> indicate the presenters.
 
 ## Oral Session 5
 
@@ -57,7 +59,7 @@ sidebar:
 ### Papers
 
 1. **Better Scores, Worse Grounding: Hidden Regressions after Fine-Tuning in Dialogue Fact Verification**  
-  <span class="presenter">Hyunkyung Park</span> and Arkaitz Zubiaga  
+  <span class="presenter">Hyunkyung Park</span> (Proxy: Nan Li) and Arkaitz Zubiaga  
 2. **LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue**  
   Katharine Kowalyshyn and <span class="presenter">Matthias Scheutz</span>  
 3. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing**  
@@ -73,11 +75,11 @@ sidebar:
 8. **When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue**  
   <span class="presenter">Mohammad Alijanpour Shalmani</span>, <span class="presenter">Alale Rezvani Boroujeni</span> and Jiann S. Yuan  
 9. **MTDiag: A Multi-Turn Diagnostic Dataset for Evaluating Clinical Reasoning in Large Language Models**  
-  <span class="presenter">Pia Chouayfati</span> (virtual), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
+  <span class="presenter">Pia Chouayfati</span> (Proxy: Christoph Kowalski), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
 10. **PERSONAJUDGE: Simulating Individual Human Preference Judgments with Human-Centered Demonstration Data**  
   <span class="presenter">Zeyu He</span>, Xuan Qi, <span class="presenter">Subramanian Chidambaram</span>, Zhichao Xu, Vinayak Arannil, Lydia Chilton and Alex C. Williams  
 11. **Relex: A Common Denominator for Connectives and Discourse Relations in French**  
-  <span class="presenter">Fatou SOW</span>, Yannick Toussaint and Mathieu Constant  
+  <span class="presenter">Fatou Sow</span> (TBD), Yannick Toussaint and Mathieu Constant  
 13. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D)  
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  
 2. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems**  

@@ -52,6 +52,8 @@ program:
     children:
       - title: "Program Overview"
         url: /program/
+      - title: "- Day 0 (August 2)"
+        url: /program/day0/
       - title: "- Day 1 (August 3)"
         url: /program/day1/
       - title: "- Day 2 (August 4)"
@@ -60,8 +62,6 @@ program:
         url: /program/day3/
       - title: "Accepted Papers"
         url: /program/accepted_papers/
-      - title: "Workshops"
-        url: /program/workshops/
   - title: Events
     children:
       - title: "Social Program"

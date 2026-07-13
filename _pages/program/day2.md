@@ -33,7 +33,9 @@ sidebar:
 | 19:00 | 21:30 | [Social Event](/program/social/) |
 {: .program-table}
 
-* *<span class="presenter">Blue names</span> indicate the presenter.*
+* All oral sessions are are held at PAIS 290.
+* All poster sessions are held in the PAIS main lobby.
+* <span class="presenter">Blue names</span> indicate the presenters.
 
 ## Oral Session 3
 
