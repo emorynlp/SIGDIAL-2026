@@ -57,13 +57,12 @@ sidebar:
 * **Time**: 13:30 – 15:00
 
 ### Papers
-
-1. **Better Scores, Worse Grounding: Hidden Regressions after Fine-Tuning in Dialogue Fact Verification**  
+1. **Evaluation of Paralinguistic-Aware Spoken Dialogue Systems using Next-Utterance Classification**  
+  <span class="presenter">Kouki Miyazawa</span> and <span class="presenter">Yoshinao Sato</span>  
+2. **Better Scores, Worse Grounding: Hidden Regressions after Fine-Tuning in Dialogue Fact Verification**  
   <span class="presenter">Hyunkyung Park</span> (Proxy: Nan Li) and Arkaitz Zubiaga  
-2. **LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue**  
+3. **LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue**  
   Katharine Kowalyshyn and <span class="presenter">Matthias Scheutz</span>  
-3. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing**  
-  <span class="presenter">Alafate Abulimiti</span> (TBD), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
 4. **Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis**  
   <span class="presenter">Sanjay Das</span>, Ran Elgedawy, Ethan Seefried, Ryan Burchfield and Tirthankar Ghosal  
 5. **Building Task-Oriented Dialogue Systems via Instruction Guidance without Annotated Data**  
@@ -78,12 +77,13 @@ sidebar:
   <span class="presenter">Pia Chouayfati</span> (Proxy: Christoph Kowalski), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
 10. **PERSONAJUDGE: Simulating Individual Human Preference Judgments with Human-Centered Demonstration Data**  
   <span class="presenter">Zeyu He</span>, Xuan Qi, <span class="presenter">Subramanian Chidambaram</span>, Zhichao Xu, Vinayak Arannil, Lydia Chilton and Alex C. Williams  
-11. **Relex: A Common Denominator for Connectives and Discourse Relations in French**  
-  <span class="presenter">Fatou Sow</span> (TBD), Yannick Toussaint and Mathieu Constant  
-13. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D)  
+11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D)  
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  
-2. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems**  
+12. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing**  
+  <span class="presenter">Alafate Abulimiti</span> (TBD), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
+13. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems**  
   <span class="presenter">Sukanta Ganguly</span> (TBD)
+
 
 ## Invited Talk
 

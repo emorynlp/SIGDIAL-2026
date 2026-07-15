@@ -31,7 +31,6 @@ SIGDIAL 2026 is held at the [Psychology and Interdisciplinary Sciences (PAIS)](/
 | 08:30 | 09:00 | Registration |
 | 9:00 | 13:30 | [WOCHAT: Workshop on Chatbots and Agentic Technologies](/program/day0#wochat-workshop-on-chatbots-and-agentic-technologies) |
 | 14:30 | 18:00 | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](/program/day0#yrrsds-workshop-on-spoken-dialogue-systems-for-phds-postdocs--new-researchers) |
-| TBD | TBD | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](/program/day0#found-in-translation-speaking-the-same-language-about-genai-to-support-multilingual-users) |
 {: .program-table}
 
 ## August 3 (Monday) — Main Conference ([Day 1](/program/day1/))

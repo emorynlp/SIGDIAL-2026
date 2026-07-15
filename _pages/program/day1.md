@@ -68,7 +68,7 @@ sidebar:
 3. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes**  
   Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (virtual)  
 4. **Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives**  
-  <span class="presenter">Sakayo Toadoum Sari</span>, Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
+  <span class="presenter">Sakayo Toadoum Sari</span> (virtual), Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
 5. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?**  
   <span class="presenter">Dongxu Lu</span>, Albert Gatt and Johan Jeuring  
 
@@ -80,27 +80,27 @@ sidebar:
 
 1. **Conversational Grounding in Large Language Models: Evaluation Methods, Challenges and Future Directions**  
   <span class="presenter">Michelle Elizabeth</span>, Gwénolé Lecorvé, Lina M. Rojas Barahona and Magalie Ochs  
-3. **Sensor-Augmented Voice Activity Projection for Enhancing Turn-Taking Prediction**  
+2. **Sensor-Augmented Voice Activity Projection for Enhancing Turn-Taking Prediction**  
   <span class="presenter">Satoki Hamanaka</span>, Yasue Kishino, Yuiko Tsunomori, Shin Mizutani, Yuya Chiba, Tadashi Okoshi and Jin Nakazawa  
-4. **A Dialogue System for Second Language Learning with Dynamic Adaptation to In-Dialogue Difficulty Changes**  
+3. **A Dialogue System for Second Language Learning with Dynamic Adaptation to In-Dialogue Difficulty Changes**  
   <span class="presenter">Taku Morioka</span>, Junya Takayama and Tomoyuki Kajiwara  
-5. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series**  
-  <span class="presenter">Galann Pennec</span>, Zhengyuan Liu, Nicholas Asher, Philippe Muller and Nancy Chen  
-6. **Ping-Ponder: Concurrent Dual-Agent Spoken Dialogue via Shared Belief State**  
+4. **Ping-Ponder: Concurrent Dual-Agent Spoken Dialogue via Shared Belief State**  
   <span class="presenter">Akiko Masaki-Kato</span> and Gulzar Haris  
-7. **Rethinking Role-Playing Evaluation: Anonymous Benchmarking and A Systematic Study of Personality Effects**  
+5. **Rethinking Role-Playing Evaluation: Anonymous Benchmarking and A Systematic Study of Personality Effects**  
   <span class="presenter">Ji-Lun Peng</span> and Yun-Nung Chen  
-8. **I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System**  
+6. **I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System**  
   <span class="presenter">Zi Haur Pang</span>, Yahui Fu, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara  
-9. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis**  
+7. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis**  
   <span class="presenter">Abhidip Bhattacharyya</span> and Shira Wein  
-10. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo)  
+8. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo)  
   <span class="presenter">Yash Raj Singh</span>  
-11. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization**  
+9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization**  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
-12. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues**  
+10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues**  
   Yu Nakagawa, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
-13. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**  
+11. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**  
   <span class="presenter">Vardhan Dongre</span> and Dilek Hakkani-Tur  
-14. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D)  
+12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D)  
   <span class="presenter">Anshun Asher Zheng</span>, Junyi Jessy Li and David I. Beaver
+13. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series**  
+  <span class="presenter">Galann Pennec</span> (TBD), Zhengyuan Liu, Nicholas Asher, Philippe Muller and Nancy Chen  

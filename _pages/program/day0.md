@@ -24,7 +24,6 @@ Check the websites of individual workshops for more details about their programs
 | 08:30 | 09:00 | Registration |
 | 09:00 | 13:30 | [WOCHAT: Workshop on Chatbots and Agentic Technologies](https://sites.google.com/view/wochat2026/) |
 | 14:30 | 18:00 | [YRRSDS: Workshop on Spoken Dialogue Systems for PhDs, PostDocs & New Researchers](https://emorynlp.github.io/YRRSDS-2026/) |
-| TBD | TBD | [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) |
 {: .program-table}
 
 ### WOCHAT: Workshop on Chatbots and Agentic Technologies
@@ -39,8 +38,5 @@ Check the websites of individual workshops for more details about their programs
 * **Time**: 14:30 - 16:00
 * **Location**: PAIS 230
 
-### Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users
-
-* **Organizers**: Yolanda Rankin, Sulare Telford Rose, Jinho Choi, Ligia Gomez Franco
-* **Time**: TBD
-* **Location**: PAIS 250
+The [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) workshop has been cancelled.
+{: .notice--warning}

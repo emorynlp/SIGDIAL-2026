@@ -108,8 +108,8 @@ sidebar:
   <span class="presenter">Kazunori Komatani</span>, Ryu Takeda and Mikio Nakano  
 12. **TRACER: Early Failure Detection for Task-Oriented Dialogue**  
   <span class="presenter">Erfan Nourbakhsh</span>, Rocky Slavin, Ke Yang and Anthony Rios  
-13. **Evaluation of Paralinguistic-Aware Spoken Dialogue Systems using Next-Utterance Classification**  
-  <span class="presenter">Kouki Miyazawa</span> and <span class="presenter">Yoshinao Sato</span>  
-14. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D)  
+13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D)  
   Ryuichi Sumida, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara
+14. **Relex: A Common Denominator for Connectives and Discourse Relations in French**  
+  <span class="presenter">Fatou Sow</span> (TBD), Yannick Toussaint and Mathieu Constant  
 
