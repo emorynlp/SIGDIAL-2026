@@ -15,7 +15,7 @@ In exchange for up to 4 hours of work, students selected as volunteers will have
 
 Tasks may include monitoring building entrances to let attendees in, assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator and providing assistance for conference events.
 
-Student Volunteer Application: [https://forms.gle/cEPqJgAF26VT8ebF7](https://forms.gle/cEPqJgAF26VT8ebF7)
+The student volunteer application is now closed, as we have reached our maximum capacity.
 {: .notice .notice--info .text-center}
 
 ## Important Dates
