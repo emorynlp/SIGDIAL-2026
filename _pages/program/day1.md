@@ -103,4 +103,4 @@ sidebar:
 12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D)  
   <span class="presenter">Anshun Asher Zheng</span>, Junyi Jessy Li and David I. Beaver
 13. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series**  
-  <span class="presenter">Galann Pennec</span> (TBD), Zhengyuan Liu, Nicholas Asher, Philippe Muller and Nancy Chen  
+  <span class="presenter">Galann Pennec</span>, Zhengyuan Liu, Nicholas Asher, Philippe Muller and Nancy Chen  
