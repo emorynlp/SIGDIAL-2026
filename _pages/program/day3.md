@@ -79,10 +79,11 @@ sidebar:
   <span class="presenter">Zeyu He</span>, Xuan Qi, <span class="presenter">Subramanian Chidambaram</span>, Zhichao Xu, Vinayak Arannil, Lydia Chilton and Alex C. Williams  
 11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D)  
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  
-12. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing**  
+12. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems**  
+  <span class="presenter">Sukanta Ganguly</span>
+13. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing**  
   <span class="presenter">Alafate Abulimiti</span> (TBD), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
-13. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems**  
-  <span class="presenter">Sukanta Ganguly</span> (TBD)
+
 
 
 ## Invited Talk

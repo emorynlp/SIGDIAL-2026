@@ -38,7 +38,7 @@ SIGDIAL 2026 is held at the [Psychology and Interdisciplinary Sciences (PAIS)](/
 | Start | End | Event |
 |:-----:|:---:|-------|
 | 08:30 | 09:00 | Registration |
-| 09:00 | 09:30 | Opening |
+| 09:00 | 09:30 | Opening Remarks |
 | 09:30 | 10:30 | [Keynote 1: Larry Heck](/keynotes/larry_heck/) |
 | 10:30 | 11:00 | Coffee Break |
 | 11:00 | 12:30 | [Oral Session 1](/program/day1/#oral-session-1) |

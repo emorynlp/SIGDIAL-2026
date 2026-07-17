@@ -111,5 +111,5 @@ sidebar:
 13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D)  
   Ryuichi Sumida, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara
 14. **Relex: A Common Denominator for Connectives and Discourse Relations in French**  
-  <span class="presenter">Fatou Sow</span> (TBD), Yannick Toussaint and Mathieu Constant  
+  <span class="presenter">Fatou Sow</span> (Proxy: Galann Pennec), Yannick Toussaint and Mathieu Constant  
 
