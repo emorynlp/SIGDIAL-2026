@@ -97,7 +97,7 @@ sidebar:
 9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization**  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
 10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues**  
-  Yu Nakagawa, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
+  <span class="presenter">Yu Nakagawa</scan>, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
 11. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue**  
   <span class="presenter">Vardhan Dongre</span> and Dilek Hakkani-Tur  
 12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D)  
