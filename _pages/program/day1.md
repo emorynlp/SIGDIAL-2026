@@ -65,12 +65,12 @@ sidebar:
   <span class="presenter">Abari Bhattacharya</span> and <span class="presenter">Barbara Di Eugenio</span>  
 2. **Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment**  
   <span class="presenter">Ali Pourghasemi Fatideh</span>, Wilder Baldwin, Maria Dhakal, Collin McMillan and Sepideh Ghanavati  
-3. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes**  
-  Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (virtual)  
-4. **Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives**  
-  <span class="presenter">Sakayo Toadoum Sari</span> (virtual), Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
-5. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?**  
+3. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?**  
   <span class="presenter">Dongxu Lu</span>, Albert Gatt and Johan Jeuring  
+4. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes**  
+  Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (virtual)  
+5. **Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives**  
+  <span class="presenter">Sakayo Toadoum Sari</span> (virtual), Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
 
 ## Poster Session 1
 
