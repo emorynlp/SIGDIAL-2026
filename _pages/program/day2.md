@@ -91,7 +91,7 @@ sidebar:
 3. **Tree-Based Interview Topic Guidance for Collecting Target Information under Adaptive Topic continuation/switching**  
   <span class="presenter">Fuminori Nagasawa</span>, Ekai Hashimoto and Shun Shiramatsu  
 4. **COCORELI: Enforcing Execution Preconditions for Reliable Collaborative Instruction Following**  
-  <span class="presenter">Swarnadeep Bhar</span>, Omar Naim, Eleni Metheniti, Loïc Cabannes, Bastien NAVARRI, Morteza Kamaladdini Ezzabady and Nicholas Asher  
+  Swarnadeep Bhar, Omar Naim, Eleni Metheniti, Loïc Cabannes, Bastien NAVARRI, Morteza Kamaladdini Ezzabady and <span class="presenter">Nicholas Asher</span>  
 5. **StagePilot: Stage-Level Planning for Long-Horizon Dialogue Simulation in Cybergrooming**  
   <span class="presenter">Heajun An</span>, Qi Zhang, Minqian Liu, Xinyi Zhang, Sang Won Lee, Lifu Huang, Pamela Wisniewski and Jin-Hee Cho  
 6. **Generation of Dialogue Breakdown Repair Utterance in Non-task Oriented Conversation**  
