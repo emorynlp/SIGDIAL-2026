@@ -50,6 +50,8 @@ keynotes:
 program:
   - title: "Programs"
     children:
+      - title: "Accepted Papers"
+        url: /program/accepted_papers/
       - title: "Program Overview"
         url: /program/
       - title: "- Day 0 (August 2)"
@@ -60,11 +62,9 @@ program:
         url: /program/day2/
       - title: "- Day 3 (August 5)"
         url: /program/day3/
-      - title: "Accepted Papers"
-        url: /program/accepted_papers/
   - title: Events
     children:
-      - title: "Social Program"
+      - title: "Social Event"
         url: /program/social/
   # - title: Awards
   #   children:

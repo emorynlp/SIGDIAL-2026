@@ -45,7 +45,7 @@ sidebar:
 ### Papers
 
 1. **How Ethos and Pathos Appeals Resonate in Reader Interpretations of Social Media Messages**  
-  Ewelina Gajewska, Katarzyna Budzynska, <span class="presenter">Jarosław A. Chudziak</span> (TBD) and Liesbeth Allein
+  Ewelina Gajewska, Katarzyna Budzynska, <span class="presenter">Jarosław A. Chudziak</span> and Liesbeth Allein
 2. **GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems**  
   <span class="presenter">Xiaocheng Yang</span>, Abdulrahman Alrabah, Dilek Hakkani-Tür and Gokhan Tur  
 3. **A French OSCE Dialogue Dataset and Controllable Virtual Patient System for Clinical Training**  
@@ -111,5 +111,5 @@ sidebar:
 13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D)  
   Ryuichi Sumida, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara
 14. **Relex: A Common Denominator for Connectives and Discourse Relations in French**  
-  <span class="presenter">Fatou Sow</span> (Proxy: Galann Pennec), Yannick Toussaint and Mathieu Constant  
+  <span class="presenter">Fatou Sow</span> (Virtual), Yannick Toussaint and Mathieu Constant  
 

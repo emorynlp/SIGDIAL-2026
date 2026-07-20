@@ -85,14 +85,10 @@ sidebar:
   <span class="presenter">Alafate Abulimiti</span> (TBD), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
 
 
-
 ## Invited Talk
 
 * **Time**: 15:30 – 16:00
-* **Speaker**: TBD
-* **Room**: TBD
+* **Speaker**: Matthew Marge (Defense Advanced Research Projects Agency)
+* **Title**: Frontier AI for National Security: The AI Forge Program
 
-## Awards & Closing
 
-* **Time**: 16:00 – 17:00
-* **Room**: TBD

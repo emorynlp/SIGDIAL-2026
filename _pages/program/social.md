@@ -1,7 +1,7 @@
 ---
-title: Social Program
+title: Social Event
 layout: single
-excerpt: "SIGDIAL 2026 Social Program."
+excerpt: "SIGDIAL 2026 Social Event"
 permalink: /program/social/
 toc: false
 toc_sticky: true
