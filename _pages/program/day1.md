@@ -94,7 +94,7 @@ All poster sessions are held in the WH main lobby.
 7. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis** [[paper]](https://aclanthology.org/2026.sigdial-1.17.pdf)  
   <span class="presenter">Abhidip Bhattacharyya</span> and Shira Wein  
 8. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo) [[paper]](https://aclanthology.org/2026.sigdial-1.18.pdf)  
-  <span class="presenter">Yash Raj Singh</span> (Proxy: Sukanta Ganguly)
+  <span class="presenter">Yash Raj Singh</span> (TBD)
 9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization** [[paper]](https://aclanthology.org/2026.sigdial-1.19.pdf)  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
 10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues** [[paper]](https://aclanthology.org/2026.sigdial-1.20.pdf)  

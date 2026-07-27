@@ -84,7 +84,7 @@ All poster sessions are held in the WH main lobby.
 12. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.60.pdf)  
   <span class="presenter">Sukanta Ganguly</span>
 13. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing** [[paper]](https://aclanthology.org/2026.sigdial-1.61.pdf)  
-  <span class="presenter">Alafate Abulimiti</span> (TBD), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
+  <span class="presenter">Alafate Abulimiti</span> (Proxy: Michelle Elizabeth), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
 
 
 ## Invited Talk
