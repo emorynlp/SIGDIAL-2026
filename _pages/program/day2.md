@@ -17,6 +17,11 @@ sidebar:
 .presenter { color: #0074D9; }
 </style>
 
+The main conference takes place at [Goodrich C. White Hall (WH)](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA).
+All oral sessions are are held at WH 208.
+All poster sessions are held in the WH main lobby.
+<span class="presenter">Blue names</span> indicate the presenters.
+
 ## Schedule (August 4)
 
 | Start | End | Event |
@@ -33,9 +38,6 @@ sidebar:
 | 19:00 | 21:30 | [Social Event](/program/social/) |
 {: .program-table}
 
-* All oral sessions are are held at PAIS 290.
-* All poster sessions are held in the PAIS main lobby.
-* <span class="presenter">Blue names</span> indicate the presenters.
 
 ## Oral Session 3
 
@@ -49,7 +51,7 @@ sidebar:
 2. **GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems**  
   <span class="presenter">Xiaocheng Yang</span>, Abdulrahman Alrabah, Dilek Hakkani-Tür and Gokhan Tur  
 3. **A French OSCE Dialogue Dataset and Controllable Virtual Patient System for Clinical Training**  
-  <span class="presenter">Doria Bonzi</span>, Tom Bourgeade, Fabrice Lefèvre and Irina Illina  
+  <span class="presenter">Doria Bonzi</span> (Virtual), Tom Bourgeade, Fabrice Lefèvre and Irina Illina  
 4. **Do LLMs Use Relational Structure in KG-Grounded Dialogue? Evidence from Entity and Relation Perturbation**  
   <span class="presenter">Dominic Okonkwo</span> and Ismailcem Budak Arpinar  
 5. **DiPS: Dialogue Policy Selection for High-Stakes Persuasion Agents**  

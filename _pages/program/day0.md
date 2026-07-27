@@ -16,6 +16,7 @@ sidebar:
 </style>
 
 Check the websites of individual workshops for more details about their programs.
+All workshops take place at the [Psychology and Interdisciplinary Sciences (PAIS)](https://maps.app.goo.gl/jEBd2VwDoKmgaHDu6) Building.
 
 ## August 2 (Sunday)
 
@@ -38,5 +39,5 @@ Check the websites of individual workshops for more details about their programs
 * **Time**: 14:30 - 16:00
 * **Location**: PAIS 230
 
-The [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) workshop has been cancelled.
-{: .notice--warning}
+<!-- The [Found in Translation: Speaking the Same Language about GenAI to Support Multilingual Users](https://sites.google.com/sulareconsult.com/ssigdail-wepage/) workshop has been cancelled.
+{: .notice--warning} -->

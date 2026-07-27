@@ -16,7 +16,7 @@ toc_icon: "cog"
 .program-table tr td:nth-child(2) { width: 5em; white-space: nowrap; vertical-align: top; }
 </style>
 
-SIGDIAL 2026 is held at the [Psychology and Interdisciplinary Sciences (PAIS)](/venue/#conference-venue) Building at Emory University. **August 2 (Sun)** is dedicated to [workshops](/program/day0/). The **main conference** takes place **August 3-5 (Mon–Wed)**.
+SIGDIAL 2026 is held at Emory University. **August 2 (Sun)** is dedicated to **workshops** at the [Psychology and Interdisciplinary Sciences (PAIS)](https://maps.app.goo.gl/jEBd2VwDoKmgaHDu6) Building, and the **main conference** takes place **August 3-5 (Mon–Wed)** at [Goodrich C. White Hall (WH)](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA). See the [venue](/venue) page for more details about the locations.
 
 <!-- ## Instructions for Presenters
 

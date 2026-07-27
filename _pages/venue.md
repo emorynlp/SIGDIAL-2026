@@ -19,12 +19,20 @@ A leading research university in Atlanta, Emory combines academic excellence wit
 
 Please visit [here](https://www.emory.edu) for more details.
 
-## Conference Venue
+## Workshop Venue
 
-SIGDIAL 2026 will take place at the [Psychology and Interdisciplinary Sciences (PAIS)](https://filming.emory.edu/film-locations/mc_pais.html) Building at Emory University:
+The SIGDIAL co-located workshops, WOCHAT and YRRSDS, will take place at the [Psychology and Interdisciplinary Sciences (PAIS)](https://filming.emory.edu/film-locations/mc_pais.html) Building at Emory University:
 
 * **Address**: 36 Eagle Row, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/jEBd2VwDoKmgaHDu6))
-* **Important**: The building is locked during the summer. Please use the entrance by the [main lobby](/assets/images/atlanta/pais_lobby.jpg), where student volunteers will be available to let you in.
+* **Important**: The building is locked during the summer. Student volunteers will be available to let you in.
+
+
+## Conference Venue
+
+SIGDIAL 2026 will take place at [Goodrich C. White Hall (WH)](https://filming.emory.edu/film-locations/mc_whitehall.html) Building at Emory University:
+
+* **Address**: 301 Dowman Dr, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA))
+* **Important**: The building is locked during the summer. Student volunteers will be available to let you in.
 
 ## Accommodation
 

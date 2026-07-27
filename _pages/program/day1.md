@@ -17,6 +17,11 @@ sidebar:
 .presenter { color: #0074D9; }
 </style>
 
+The main conference takes place at [Goodrich C. White Hall (WH)](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA).
+All oral sessions are are held at WH 208.
+All poster sessions are held in the WH main lobby.
+<span class="presenter">Blue names</span> indicate the presenters.
+
 ## Schedule (August 3)
 
 | Start | End | Event |
@@ -31,10 +36,6 @@ sidebar:
 | 15:30 | 16:00 | Coffee break |
 | 16:00 | 17:30 | [Poster Session 1](#poster-session-1) |
 {: .program-table}
-
-* All oral sessions are are held at PAIS 290.
-* All poster sessions are held in the PAIS main lobby.
-* <span class="presenter">Blue names</span> indicate the presenters.
 
 ## Oral Session 1
 
@@ -93,7 +94,7 @@ sidebar:
 7. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis**  
   <span class="presenter">Abhidip Bhattacharyya</span> and Shira Wein  
 8. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo)  
-  <span class="presenter">Yash Raj Singh</span>  
+  <span class="presenter">Yash Raj Singh</span> (Proxy: Sukanta Ganguly)
 9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization**  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
 10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues**  

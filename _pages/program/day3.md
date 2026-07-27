@@ -17,6 +17,11 @@ sidebar:
 .presenter { color: #0074D9; }
 </style>
 
+The main conference takes place at [Goodrich C. White Hall (WH)](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA).
+All oral sessions are are held at WH 208.
+All poster sessions are held in the WH main lobby.
+<span class="presenter">Blue names</span> indicate the presenters.
+
 ## Day 3 (August 5)
 
 | Start | End | Event |
@@ -32,9 +37,6 @@ sidebar:
 | 16:00 | 17:00 | Awards & Closing |
 {: .program-table}
 
-* All oral sessions are are held at PAIS 290.
-* All poster sessions are held in the PAIS main lobby.
-* <span class="presenter">Blue names</span> indicate the presenters.
 
 ## Oral Session 5
 
@@ -48,7 +50,7 @@ sidebar:
 2. **On the Structure of Address in Multi-Party Dialogue: From Discrete Labels to Continuous Levels**  
   <span class="presenter">Taiga Mori</span>, <span class="presenter">Koji Inoue</span>, Divesh Lala and Tatsuya Kawahara  
 3. **Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts**  
-  <span class="presenter">Zhengyuan Liu</span>, Stella Yin, Min-Yen Kan and Nancy Chen  
+  <span class="presenter">Zhengyuan Liu</span> (Virtual), Stella Yin, Min-Yen Kan and Nancy Chen  
 4. **Seeing Is Not Sharing: Some Vision-Language Models Overestimate Common Ground in Asymmetric Dialogue**  
   <span class="presenter">Nan Li</span>, Albert Gatt and Massimo Poesio  
 
