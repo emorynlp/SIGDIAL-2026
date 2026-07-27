@@ -50,8 +50,8 @@ keynotes:
 program:
   - title: "Programs"
     children:
-      - title: "Accepted Papers"
-        url: /program/accepted_papers/
+      - title: "Proceedings"
+        url: https://aclanthology.org/events/sigdial-2026/
       - title: "Program Overview"
         url: /program/
       - title: "- Day 0 (August 2)"

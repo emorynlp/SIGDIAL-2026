@@ -22,6 +22,7 @@ Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gl
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2026-07-27 | [SIGDIAL Proceedings](https://aclanthology.org/events/sigdial-2026/) have been published.|
 | 2026-07-15 | "Found in Translation" [workshop](/program/day0/) is cancelled. |
 | 2026-07-13 | [Program](/program) schedule is updated. |
 | 2026-07-06 | [Call for Student Volunteers](/calls/volunteers) is posted. |
