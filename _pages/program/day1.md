@@ -104,4 +104,4 @@ All poster sessions are held in the WH main lobby.
 12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D)  
   <span class="presenter">Anshun Asher Zheng</span>, Junyi Jessy Li and David I. Beaver
 13. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series** [[paper]](https://aclanthology.org/2026.sigdial-1.22.pdf)  
-  <span class="presenter">Galann Pennec</span> (Virtual), Zhengyuan Liu, Nicholas Asher, Philippe Muller and Nancy Chen  
+  Galann Pennec (Virtual), Zhengyuan Liu, <span class="presenter">Nicholas Asher</span>, Philippe Muller and Nancy Chen  
