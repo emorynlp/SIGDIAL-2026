@@ -42,6 +42,7 @@ All poster sessions are held in the WH main lobby.
 
 * **Time**: 10:30 – 12:00
 * **Session Chair**: TBD
+* **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
 
@@ -79,7 +80,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Pia Chouayfati</span> (Proxy: Christoph Kowalski), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
 10. **PERSONAJUDGE: Simulating Individual Human Preference Judgments with Human-Centered Demonstration Data** [[paper]](https://aclanthology.org/2026.sigdial-1.59.pdf)  
   <span class="presenter">Zeyu He</span>, Xuan Qi, <span class="presenter">Subramanian Chidambaram</span>, Zhichao Xu, Vinayak Arannil, Lydia Chilton and Alex C. Williams  
-11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D)  
+11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.5.pdf)  
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  
 12. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.60.pdf)  
   <span class="presenter">Sukanta Ganguly</span>

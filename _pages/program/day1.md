@@ -41,6 +41,7 @@ All poster sessions are held in the WH main lobby.
 
 * **Time**: 11:00 – 12:30
 * **Session Chair**: TBD
+* **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
 
@@ -59,6 +60,7 @@ All poster sessions are held in the WH main lobby.
 
 * **Time**: 14:00 – 15:30
 * **Session Chair**: TBD
+* **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
 
@@ -69,9 +71,9 @@ All poster sessions are held in the WH main lobby.
 3. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?** [[paper]](https://aclanthology.org/2026.sigdial-1.8.pdf)  
   <span class="presenter">Dongxu Lu</span>, Albert Gatt and Johan Jeuring  
 4. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes** [[paper]](https://aclanthology.org/2026.sigdial-1.9.pdf)  
-  Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (virtual)  
+  Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (Virtual)  
 5. **Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives** [[paper]](https://aclanthology.org/2026.sigdial-1.10.pdf)  
-  <span class="presenter">Sakayo Toadoum Sari</span> (virtual), Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
+  <span class="presenter">Sakayo Toadoum Sari</span> (Virtual), Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
 
 ## Poster Session 1
 
@@ -94,14 +96,14 @@ All poster sessions are held in the WH main lobby.
 7. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis** [[paper]](https://aclanthology.org/2026.sigdial-1.17.pdf)  
   <span class="presenter">Abhidip Bhattacharyya</span> and Shira Wein  
 8. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo) [[paper]](https://aclanthology.org/2026.sigdial-1.18.pdf)  
-  <span class="presenter">Yash Raj Singh</span> (TBD)
+  <span class="presenter">Yash Raj Singh</span> (Virtual)
 9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization** [[paper]](https://aclanthology.org/2026.sigdial-1.19.pdf)  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
 10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues** [[paper]](https://aclanthology.org/2026.sigdial-1.20.pdf)  
   <span class="presenter">Yu Nakagawa</scan>, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
 11. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.21.pdf)  
   <span class="presenter">Vardhan Dongre</span> and Dilek Hakkani-Tur  
-12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D)  
+12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D) [[paper]](https://aclanthology.org/2026.dnd-17.1.pdf)  
   <span class="presenter">Anshun Asher Zheng</span>, Junyi Jessy Li and David I. Beaver
 13. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series** [[paper]](https://aclanthology.org/2026.sigdial-1.22.pdf)  
-  Galann Pennec (Virtual), Zhengyuan Liu, <span class="presenter">Nicholas Asher</span>, Philippe Muller and Nancy Chen  
+  Galann Pennec, Zhengyuan Liu, <span class="presenter">Nicholas Asher</span>, Philippe Muller and Nancy Chen  

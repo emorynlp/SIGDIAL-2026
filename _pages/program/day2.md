@@ -43,6 +43,7 @@ All poster sessions are held in the WH main lobby.
 
 * **Time**: 10:30 – 12:00
 * **Session Chair**: TBD
+* **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
 
@@ -66,6 +67,7 @@ All poster sessions are held in the WH main lobby.
 
 * **Time**: 14:00 – 15:30
 * **Session Chair**: TBD
+* **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
 
@@ -110,7 +112,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Kazunori Komatani</span>, Ryu Takeda and Mikio Nakano  
 12. **TRACER: Early Failure Detection for Task-Oriented Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.44.pdf)  
   <span class="presenter">Erfan Nourbakhsh</span>, Rocky Slavin, Ke Yang and Anthony Rios  
-13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D)  
+13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.12.pdf)  
   Ryuichi Sumida, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara
 14. **Relex: A Common Denominator for Connectives and Discourse Relations in French** [[paper]](https://aclanthology.org/2026.sigdial-1.45.pdf)  
   <span class="presenter">Fatou Sow</span> (Virtual), Yannick Toussaint and Mathieu Constant  
