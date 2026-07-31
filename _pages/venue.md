@@ -34,6 +34,15 @@ SIGDIAL 2026 will take place at [Goodrich C. White Hall (WH)](https://filming.em
 * **Address**: 301 Dowman Dr, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA))
 * **Important**: The building is locked during the summer. Student volunteers will be available to let you in.
 
+## Visitor's Parking at Emory
+
+Two visitor's parking lots are available near the workshop/conference venue:
+
+* **Oxford Road Parking Deck**: 1390 Oxford Road NE, Atlanta 30307 ([map](https://maps.app.goo.gl/9ugsQnba6kAwDzwx8))
+* **Peavine Visitor's Parking Lot**: 27 Eagle Row, Atlanta, 30322 ([map](https://maps.app.goo.gl/aVVxyShprRdX9kpCA))
+
+Parking fees apply Monday–Friday, 7:00 AM–5:00 PM (validation is not available). The all-day parking rate is $15.
+
 ## Accommodation
 
 Here are hotels nearby the conference venue:
