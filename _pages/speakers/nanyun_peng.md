@@ -1,9 +1,9 @@
 ---
 title: Keynote Speaker
 layout: single
-permalink: /keynotes/nanyun_peng/
+permalink: /speakers/nanyun_peng/
 sidebar:
-    nav: "keynotes"
+    nav: "speakers"
 classes: wide
 ---
 
@@ -15,7 +15,7 @@ classes: wide
    site="https://violetpeng.github.io"
    title="Associate Professor of Computer Science"
    institution="University of California, Los Angeles"
-   talkinfo="Time: TBD, Location: TBD"
+   talkinfo="Location: White Hall 208, Time: 9:00 AM"
 %}
 
 Dr.  Nanyun (Violet) Peng is an Associate Professor of Computer Science at the University of California, Los Angeles, currently on sabbatical, and a Senior Staff Research Scientist at Google. Her research focuses on controllable language generation, multilingual and multimodal models, and automatic evaluation metrics, with a strong commitment to advancing creativity of AI models. Her work has been recognized with multiple paper awards, including three Outstanding Paper Awards at EMNLP 2024, an Outstanding Paper Award at NAACL 2022, Oral Papers at NeurIPS 2022 and ICML 2023, as well as several Best Paper Awards at workshops. Her research has received support from the NSF CAREER Award, NIH R01, DARPA, IARPA, and multiple industrial research awards. She served as Program Chair for ICLR 2025 and EMNLP 2025, and as a board member of NAACL.
