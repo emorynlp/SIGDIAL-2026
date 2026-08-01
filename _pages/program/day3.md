@@ -34,7 +34,7 @@ All poster sessions are held in the WH main lobby.
 | 13:30 | 15:00 | [Poster Session 3](#poster-session-3) |
 | 15:00 | 15:30 | Coffee break |
 | 15:30 | 16:00 | [Invited Talk](/speakers/matthew_marge/) |
-| 16:00 | 17:00 | Awards & Closing |
+| 16:00 | 17:00 | Awards & Closing Remarks |
 {: .program-table}
 
 

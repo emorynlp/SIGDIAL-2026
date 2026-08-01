@@ -76,5 +76,5 @@ SIGDIAL 2026 is held at Emory University. **August 2 (Sun)** is dedicated to **w
 | 13:30 | 15:00 | [Poster Session 3](/program/day3/#poster-session-3) |
 | 15:00 | 15:30 | Coffee break |
 | 15:30 | 16:00 | [Invited Talk](/speakers/matthew_marge/) |
-| 16:00 | 17:00 | Awards & Closing |
+| 16:00 | 17:00 | Awards & Closing Remarks |
 {: .program-table}
