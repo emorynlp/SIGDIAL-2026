@@ -37,9 +37,9 @@ Please visit the [Registration](/registration/) page for the registration form a
 
 SIGDIAL 2026 features three distinguished keynote speakers:
 
-* **August 3:** [Larry Heck](/keynotes/larry_heck/) — Professor of Electrical and Computer Engineering and Interactive Computing, Georgia Institute of Technology
-* **August 4:** [Nanyun (Violet) Peng](/keynotes/nanyun_peng/) — Associate Professor of Computer Science, University of California, Los Angeles
-* **August 5:** [Dilek Hakkani-Tür](/keynotes/dilek_hakkani_tur/) — Professor of Computer Science, University of Illinois at Urbana-Champaign
+* **August 3:** [Larry Heck](/speakers/larry_heck/) — Professor of Electrical and Computer Engineering and Interactive Computing, Georgia Institute of Technology
+* **August 4:** [Nanyun (Violet) Peng](/speakers/nanyun_peng/) — Associate Professor of Computer Science, University of California, Los Angeles
+* **August 5:** [Dilek Hakkani-Tür](/speakers/dilek_hakkani_tur/) — Professor of Computer Science, University of Illinois at Urbana-Champaign
 
 ## Social Event
 

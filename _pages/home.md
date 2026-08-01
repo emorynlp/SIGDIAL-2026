@@ -30,7 +30,7 @@ Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gl
 | 2026-06-22 | [Call for Participation](/calls/participants) is posted. |
 | 2026-06-04 | [Accepted papers](/program/accepted_papers) are posted. |
 | 2026-06-03 | [Registration](/registration) is open. |
-| 2026-04-13 | All three [keynote speakers](/keynotes/larry_heck/) are confirmed. |
+| 2026-04-13 | All three [keynote speakers](/speakers/larry_heck/) are confirmed. |
 | 2026-04-01 | Workshop websites are linked in the [Workshops](/program/day0/) page. |
 | 2026-02-19 | The [Invitation to Sponsors](/calls/sponsors/) is announced. |
 | 2026-02-05 | SIGDIAL'26 is [rescheduled](/date-reschedule/) to August 2-5. |

@@ -27,7 +27,7 @@ All poster sessions are held in the WH main lobby.
 | Start | End | Event |
 |:-----:|:---:|-------|
 | 08:30 | 09:00 | Registration |
-| 09:00 | 10:00 | [Keynote 2: Nanyun (Violet) Peng](/keynotes/nanyun_peng/) |
+| 09:00 | 10:00 | [Keynote 2: Nanyun (Violet) Peng](/speakers/nanyun_peng/) |
 | 10:00 | 10:30 | Coffee Break |
 | 10:30 | 12:00 | [Oral Session 3](#oral-session-3) |
 | 12:00 | 13:30 | Lunch Break |

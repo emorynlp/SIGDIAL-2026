@@ -27,13 +27,13 @@ All poster sessions are held in the WH main lobby.
 | Start | End | Event |
 |:-----:|:---:|-------|
 | 08:30 | 09:00 | Registration |
-| 09:00 | 10:00 | [Keynote 3: Dilek Hakkani-Tür](/keynotes/dilek_hakkani_tur/) |
+| 09:00 | 10:00 | [Keynote 3: Dilek Hakkani-Tür](/speakers/dilek_hakkani_tur/) |
 | 10:00 | 10:30 | Coffee Break |
 | 10:30 | 12:00 | [Oral Session 5](#oral-session-5) |
 | 12:00 | 13:30 | Lunch Break |
 | 13:30 | 15:00 | [Poster Session 3](#poster-session-3) |
 | 15:00 | 15:30 | Coffee break |
-| 15:30 | 16:00 | [Invited Talk](#invited-talk) |
+| 15:30 | 16:00 | [Invited Talk](/speakers/matthew_marge/) |
 | 16:00 | 17:00 | Awards & Closing |
 {: .program-table}
 
@@ -86,12 +86,3 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Sukanta Ganguly</span>
 13. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing** [[paper]](https://aclanthology.org/2026.sigdial-1.61.pdf)  
   <span class="presenter">Alafate Abulimiti</span> (Proxy: Michelle Elizabeth), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
-
-
-## Invited Talk
-
-* **Time**: 15:30 – 16:00
-* **Speaker**: Matthew Marge (Defense Advanced Research Projects Agency)
-* **Title**: Frontier AI for National Security: The AI Forge Program
-
-

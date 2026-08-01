@@ -1,9 +1,9 @@
 ---
 title: Keynote Speaker
 layout: single
-permalink: /keynotes/dilek_hakkani_tur/
+permalink: /speakers/dilek_hakkani_tur/
 sidebar:
-    nav: "keynotes"
+    nav: "speakers"
 classes: wide
 ---
 
@@ -15,7 +15,7 @@ classes: wide
    site="https://siebelschool.illinois.edu/about/people/faculty/dilek"
    title="Professor of Computer Science"
    institution="University of Illinois at Urbana-Champaign"
-   talkinfo="Time: TBD, Location: TBD"
+   talkinfo="Location: White Hall 208, Time: 9:00 AM"
 %}
 
 Dr. Dilek Hakkani-Tür is a Professor of Computer Science at University of Illinois Urbana-Champaign and an Amazon Scholar (at Amazon Health Science). Recently, she worked as a senior principal scientist at Amazon Alexa AI focusing on enabling natural dialogues with machines (2018-2023). Prior to that, she was a dialogue researcher at Google (2016-2018), a principal researcher at Microsoft Research (2010-2016), International Computer Science Institute (ICSI, 2006-2010) and AT&T Labs-Research (2001-2005). She received her BSc degree from Middle East Technical Univ, in 1994, and MSc and PhD degrees from Bilkent Univ., Department of Computer Engineering, in 1996 and 2000, respectively.

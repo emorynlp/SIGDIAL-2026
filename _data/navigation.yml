@@ -6,8 +6,8 @@ main:
     url: /program/
   - title: "Registration"
     url: /registration/
-  - title: "Keynotes"
-    url: /keynotes/larry_heck
+  - title: "Speakers"
+    url: /speakers/larry_heck
   - title: "Sponsors"
     url: /sponsors/
   - title: "Organizers"
@@ -37,15 +37,19 @@ calls:
       - title: "Sponsors"
         url: /calls/sponsors/
 
-keynotes:
+speakers:
   - title: "Keynote Speakers"
     children:
       - title: "Day 1: Larry Heck"
-        url: /keynotes/larry_heck/
+        url: /speakers/larry_heck/
       - title: "Day 2: Nanyun (Violet) Peng"
-        url: /keynotes/nanyun_peng/
+        url: /speakers/nanyun_peng/
       - title: "Day 3: Dilek Hakkani-Tür"
-        url: /keynotes/dilek_hakkani_tur/
+        url: /speakers/dilek_hakkani_tur/
+  - title: "Invited Speakers"
+    children:
+      - title: "Day 3: Matthew Marge"
+        url: /speakers/matthew_marge/
 
 program:
   - title: "Programs"
