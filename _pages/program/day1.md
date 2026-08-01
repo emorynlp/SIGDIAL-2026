@@ -100,7 +100,7 @@ All poster sessions are held in the WH main lobby.
 9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization** [[paper]](https://aclanthology.org/2026.sigdial-1.19.pdf)  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
 10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues** [[paper]](https://aclanthology.org/2026.sigdial-1.20.pdf)  
-  <span class="presenter">Yu Nakagawa</scan>, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
+  <span class="presenter">Yu Nakagawa</span>, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
 11. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.21.pdf)  
   <span class="presenter">Vardhan Dongre</span> and Dilek Hakkani-Tur  
 12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D) [[paper]](https://aclanthology.org/2026.dnd-17.1.pdf)  

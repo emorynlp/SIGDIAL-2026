@@ -115,5 +115,5 @@ All poster sessions are held in the WH main lobby.
 13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.12.pdf)  
   Ryuichi Sumida, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara
 14. **Relex: A Common Denominator for Connectives and Discourse Relations in French** [[paper]](https://aclanthology.org/2026.sigdial-1.45.pdf)  
-  <span class="presenter">Fatou Sow</span> (Virtual), Yannick Toussaint and Mathieu Constant  
+  <span class="presenter">Fatou Sow</span> (Proxy: Michelle Elizabeth), Yannick Toussaint and Mathieu Constant  
 
