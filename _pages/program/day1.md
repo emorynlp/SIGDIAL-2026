@@ -95,15 +95,13 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Zi Haur Pang</span>, Yahui Fu, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara  
 7. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis** [[paper]](https://aclanthology.org/2026.sigdial-1.17.pdf)  
   <span class="presenter">Abhidip Bhattacharyya</span> and Shira Wein  
-8. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo) [[paper]](https://aclanthology.org/2026.sigdial-1.18.pdf)  
-  <span class="presenter">Yash Raj Singh</span> (Virtual)
-9. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization** [[paper]](https://aclanthology.org/2026.sigdial-1.19.pdf)  
+8. **From Felt Sense to Words: Construction and Analysis of a Focusing Dialogue Dataset for Verbalization** [[paper]](https://aclanthology.org/2026.sigdial-1.19.pdf)  
   <span class="presenter">Yuiko Tsunomori</span>, Yuya Chiba and Yosuke Koshikawa  
-10. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues** [[paper]](https://aclanthology.org/2026.sigdial-1.20.pdf)  
+9. **Retrieving Responses Useful as References in Counseling via LLM-Generated Structurally Analogous Dialogues** [[paper]](https://aclanthology.org/2026.sigdial-1.20.pdf)  
   <span class="presenter">Yu Nakagawa</span>, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
-11. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.21.pdf)  
+10. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.21.pdf)  
   <span class="presenter">Vardhan Dongre</span> and Dilek Hakkani-Tur  
-12. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D) [[paper]](https://aclanthology.org/2026.dnd-17.1.pdf)  
+11. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D) [[paper]](https://aclanthology.org/2026.dnd-17.1.pdf)  
   <span class="presenter">Anshun Asher Zheng</span>, Junyi Jessy Li and David I. Beaver
-13. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series** [[paper]](https://aclanthology.org/2026.sigdial-1.22.pdf)  
+12. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series** [[paper]](https://aclanthology.org/2026.sigdial-1.22.pdf)  
   Galann Pennec, Zhengyuan Liu, <span class="presenter">Nicholas Asher</span>, Philippe Muller and Nancy Chen  

@@ -54,6 +54,8 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Zhengyuan Liu</span> (Virtual), Stella Yin, Min-Yen Kan and Nancy Chen  
 4. **Seeing Is Not Sharing: Some Vision-Language Models Overestimate Common Ground in Asymmetric Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.49.pdf)  
   <span class="presenter">Nan Li</span>, Albert Gatt and Massimo Poesio  
+5. **CrossOracle: An Agentic Framework for Real-Time Expert Personas with Parallelized Acoustic Synthesis** (Demo) [[paper]](https://aclanthology.org/2026.sigdial-1.18.pdf)  
+  <span class="presenter">Yash Raj Singh</span> (Virtual)
 
 ## Poster Session 3
 
