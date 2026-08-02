@@ -89,7 +89,7 @@ All poster sessions are held in the WH main lobby.
 ### Papers
 
 1. **Chronological Thinking in Full-Duplex Spoken Dialogue Language Models** [[paper]](https://aclanthology.org/2026.sigdial-1.33.pdf)  
-  <span class="presenter">Donghang Wu</span>, Haoyang Zhang, Chen Chen, Tianyu Zhang, Fei Tian, Xuerui Yang, Gang Yu, Hexin Liu, Nana Hou, Yuchen Hu and Eng Siong Chng  
+  <span class="presenter">Donghang Wu</span> (Virtual), Haoyang Zhang, Chen Chen, Tianyu Zhang, Fei Tian, Xuerui Yang, Gang Yu, Hexin Liu, Nana Hou, Yuchen Hu and Eng Siong Chng  
 2. **Exploring Retrieval Augmented Generation (RAG) Approaches for Natural Language Question Understanding** [[paper]](https://aclanthology.org/2026.sigdial-1.34.pdf)  
   <span class="presenter">Christoph Kowalski</span>, Amelie Sophie Robrecht-Hilbig, Vincent Emmerling and Stefan Kopp  
 3. **Tree-Based Interview Topic Guidance for Collecting Target Information under Adaptive Topic continuation/switching** [[paper]](https://aclanthology.org/2026.sigdial-1.35.pdf)  
