@@ -42,7 +42,7 @@ All poster sessions are held in the WH main lobby.
 ## Oral Session 3
 
 * **Time**: 10:30 – 12:00
-* **Session Chair**: TBD
+* **Session Chair**: Gokhan Tur
 * **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
@@ -66,7 +66,7 @@ All poster sessions are held in the WH main lobby.
 ## Oral Session 4
 
 * **Time**: 14:00 – 15:30
-* **Session Chair**: TBD
+* **Session Chair**: David Traum
 * **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers

@@ -40,7 +40,7 @@ All poster sessions are held in the WH main lobby.
 ## Oral Session 1
 
 * **Time**: 11:00 – 12:30
-* **Session Chair**: TBD
+* **Session Chair**: Luis Fernando D'Haro
 * **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
@@ -59,7 +59,7 @@ All poster sessions are held in the WH main lobby.
 ## Oral Session 2
 
 * **Time**: 14:00 – 15:30
-* **Session Chair**: TBD
+* **Session Chair**: Jaroslaw Chudziak
 * **Virtual Link**: [https://emory.zoom.us/j/95840256631](https://emory.zoom.us/j/95840256631)
 
 ### Papers
