@@ -47,7 +47,7 @@ All poster sessions are held in the WH main lobby.
 
 ### Papers
 
-1. **How Ethos and Pathos Appeals Resonate in Reader Interpretations of Social Media Messages** [[paper]](https://aclanthology.org/2026.sigdial-1.23.pdf)  
+1. **How Ethos and Pathos Appeals Resonate in Reader Interpretations of Social Media Messages** [[paper]](https://aclanthology.org/2026.sigdial-1.23.pdf) [[slides]](/assets/files/presentations/O3.1.pdf)  
   Ewelina Gajewska, Katarzyna Budzynska, <span class="presenter">Jarosław A. Chudziak</span> and Liesbeth Allein
 2. **GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.24.pdf) [[slides]](/assets/files/presentations/O3.2.pdf)  
   <span class="presenter">Xiaocheng Yang</span>, Abdulrahman Alrabah, Dilek Hakkani-Tür and Gokhan Tur  
@@ -94,7 +94,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Christoph Kowalski</span>, Amelie Sophie Robrecht-Hilbig, Vincent Emmerling and Stefan Kopp  
 3. **Tree-Based Interview Topic Guidance for Collecting Target Information under Adaptive Topic continuation/switching** [[paper]](https://aclanthology.org/2026.sigdial-1.35.pdf) [[poster]](/assets/files/presentations/P2.3.pdf)  
   <span class="presenter">Fuminori Nagasawa</span>, Ekai Hashimoto and Shun Shiramatsu  
-4. **COCORELI: Enforcing Execution Preconditions for Reliable Collaborative Instruction Following** [[paper]](https://aclanthology.org/2026.sigdial-1.36.pdf)  
+4. **COCORELI: Enforcing Execution Preconditions for Reliable Collaborative Instruction Following** [[paper]](https://aclanthology.org/2026.sigdial-1.36.pdf) [[poster]](/assets/files/presentations/P2.4.pdf)  
   Swarnadeep Bhar, Omar Naim, Eleni Metheniti, Loïc Cabannes, Bastien NAVARRI, Morteza Kamaladdini Ezzabady and <span class="presenter">Nicholas Asher</span>  
 5. **StagePilot: Stage-Level Planning for Long-Horizon Dialogue Simulation in Cybergrooming** [[paper]](https://aclanthology.org/2026.sigdial-1.37.pdf) [[poster]](/assets/files/presentations/P2.5.pdf)  
   <span class="presenter">Heajun An</span>, Qi Zhang, Minqian Liu, Xinyi Zhang, Sang Won Lee, Lifu Huang, Pamela Wisniewski and Jin-Hee Cho  

@@ -76,7 +76,7 @@ All poster sessions are held in the WH main lobby.
   Manasa Mudunuri, Chandra Kiran Guntupalli, <span class="presenter">Mario Michael Kubek</span>, Shiraj Pokharel and Murray Patterson  
 7. **Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.56.pdf) [[poster]](/assets/files/presentations/P3.7.pdf)  
   <span class="presenter">Vira Kasprova</span>, Amruta Parulekar, Abdulrahman AlRabah, Krishna Agaram, Ritwik Garg, Sagar Jha, Nimet Beyza Bozdag and Dilek Hakkani-Tur  
-8. **When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.57.pdf)  
+8. **When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.57.pdf) [[poster]](/assets/files/presentations/P3.8.pdf)  
   <span class="presenter">Mohammad Alijanpour Shalmani</span>, <span class="presenter">Alale Rezvani Boroujeni</span> and Jiann S. Yuan  
 9. **MTDiag: A Multi-Turn Diagnostic Dataset for Evaluating Clinical Reasoning in Large Language Models** [[paper]](https://aclanthology.org/2026.sigdial-1.58.pdf) [[poster]](/assets/files/presentations/P3.9.pdf)  
   <span class="presenter">Pia Chouayfati</span> (Proxy: Christoph Kowalski), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
