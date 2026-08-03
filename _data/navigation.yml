@@ -4,22 +4,18 @@ main:
     url: /calls/main_conference/
   - title: "Program"
     url: /program/
-  - title: "Registration"
-    url: /registration/
-  - title: "Speakers"
-    url: /speakers/larry_heck
-  - title: "Sponsors"
-    url: /sponsors/
-  - title: "Organizers"
-    url: /organizers/
   - title: "Venue"
     url: /venue/
-  # - title: "FAQ"
-  #   url: /faq/
+  - title: "Speakers"
+    url: /speakers/larry_heck
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Registration"
+    url: /registration/
   - title: "Blog"
     url: /blog/
-  # - title: "Participants"
-  #   url: /participants/about_acl/
 
 calls:
   - title: "Call for"

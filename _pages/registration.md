@@ -13,8 +13,8 @@ All presentations are expected to be in-person. Exceptions may be granted only f
 
 All papers in the program must have at least one author registered at the appropriate rate for their presentation modality and status. Authors approved for virtual presentation pay the same registration rate as in-person presenters. Papers with no registered author will be removed from the proceedings.
 
-Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gle/Gn2Bmo163hbjEcB9A)
-{: .notice .notice--info .text-center}
+Registration is now closed
+{: .notice .notice--danger .text-center}
 
 ## Visa Support Letters
 

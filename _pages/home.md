@@ -12,8 +12,6 @@ excerpt: "Atlanta, Georgia, USA<br>August 2-5, 2026"
 
 The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL'26) will take place at **Emory University** in **Atlanta, Georgia, USA** on **August 2-5, 2026**.
 
-Registration is now open: [https://forms.gle/Gn2Bmo163hbjEcB9A](https://forms.gle/Gn2Bmo163hbjEcB9A)
-{: .text-center .notice--info}
 
 ## News
 
