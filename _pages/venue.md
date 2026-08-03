@@ -40,7 +40,7 @@ SIGDIAL 2026 will take place at [Goodrich C. White Hall (WH)](https://filming.em
 
 ## Eating Places
 
-* **Dobbs Common Table**, a food hall at the [Emory Student Center](https://studentcenter.emory.edu/activities/food-and-dining.html) ([map](https://maps.app.goo.gl/Jn3TohYZpBaBf82z8))
+* **Emory Cox Hall**, a food court on the Emory campus ([map](https://maps.app.goo.gl/acVGpzDpXFiZYoTB8))
 * **Emory Village**, home to a variety of nearby restaurants ([map](https://maps.app.goo.gl/45YtaWRinx6EaWqw9))
 
 ## Visitor's Parking at Emory
