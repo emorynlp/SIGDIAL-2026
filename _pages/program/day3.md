@@ -72,7 +72,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Sanjay Das</span>, Ran Elgedawy, Ethan Seefried, Ryan Burchfield and Tirthankar Ghosal  
 5. **Building Task-Oriented Dialogue Systems via Instruction Guidance without Annotated Data** [[paper]](https://aclanthology.org/2026.sigdial-1.54.pdf) [[poster]](/assets/files/presentations/P3.5.pdf)  
   Henry Gao and <span class="presenter">Jinho D. Choi</span>  
-6. **Bounded Conversational Memory with Hybrid Retrieval and Evidence Highlighting for Multi-Session Dialogue Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.55.pdf)  
+6. **Bounded Conversational Memory with Hybrid Retrieval and Evidence Highlighting for Multi-Session Dialogue Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.55.pdf) [[poster]](/assets/files/presentations/P3.6.pdf)  
   Manasa Mudunuri, Chandra Kiran Guntupalli, <span class="presenter">Mario Michael Kubek</span>, Shiraj Pokharel and Murray Patterson  
 7. **Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.56.pdf) [[poster]](/assets/files/presentations/P3.7.pdf)  
   <span class="presenter">Vira Kasprova</span>, Amruta Parulekar, Abdulrahman AlRabah, Krishna Agaram, Ritwik Garg, Sagar Jha, Nimet Beyza Bozdag and Dilek Hakkani-Tur  
@@ -80,7 +80,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Mohammad Alijanpour Shalmani</span>, <span class="presenter">Alale Rezvani Boroujeni</span> and Jiann S. Yuan  
 9. **MTDiag: A Multi-Turn Diagnostic Dataset for Evaluating Clinical Reasoning in Large Language Models** [[paper]](https://aclanthology.org/2026.sigdial-1.58.pdf) [[poster]](/assets/files/presentations/P3.9.pdf)  
   <span class="presenter">Pia Chouayfati</span> (Proxy: Christoph Kowalski), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
-10. **PERSONAJUDGE: Simulating Individual Human Preference Judgments with Human-Centered Demonstration Data** [[paper]](https://aclanthology.org/2026.sigdial-1.59.pdf)  
+10. **PERSONAJUDGE: Simulating Individual Human Preference Judgments with Human-Centered Demonstration Data** [[paper]](https://aclanthology.org/2026.sigdial-1.59.pdf) [[poster]](/assets/files/presentations/P3.10.pdf)  
   <span class="presenter">Zeyu He</span>, Xuan Qi, <span class="presenter">Subramanian Chidambaram</span>, Zhichao Xu, Vinayak Arannil, Lydia Chilton and Alex C. Williams  
 11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.5.pdf)  
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  

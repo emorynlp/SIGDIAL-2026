@@ -100,7 +100,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Heajun An</span>, Qi Zhang, Minqian Liu, Xinyi Zhang, Sang Won Lee, Lifu Huang, Pamela Wisniewski and Jin-Hee Cho  
 6. **Generation of Dialogue Breakdown Repair Utterance in Non-task Oriented Conversation** [[paper]](https://aclanthology.org/2026.sigdial-1.38.pdf) [[poster]](/assets/files/presentations/P2.6.pdf)  
   <span class="presenter">Kazuya Tsubokura</span>, Yurie Iribe and Norihide Kitaoka  
-7. **From Sound to Symptom: Real-Time Respiratory Signal Understanding for Conversational Healthcare Agents** [[paper]](https://aclanthology.org/2026.sigdial-1.39.pdf)  
+7. **From Sound to Symptom: Real-Time Respiratory Signal Understanding for Conversational Healthcare Agents** [[paper]](https://aclanthology.org/2026.sigdial-1.39.pdf) [[poster]](/assets/files/presentations/P2.7.pdf)  
   <span class="presenter">Tanmay Laud</span>, Herprit Mahal and Subhabrata Mukherjee  
 8. **Interpretable Satisfaction Modeling in Sales Dialogues: A Metrics-based Approach Validated Against Text-based Model** [[paper]](https://aclanthology.org/2026.sigdial-1.40.pdf) [[poster]](/assets/files/presentations/P2.8.pdf)  
   <span class="presenter">Natalia Krawczyk</span>, Alicja Kasicka, Bartosz Przybył and <span class="presenter">Justyna Gromada</span>  
@@ -110,7 +110,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Hyunbae Jeon</span> and Jinho D. Choi  
 11. **Question Types for Knowledge Acquisition in LLM-based Dialogue Systems: Experiments with Simulated and Human Users** [[paper]](https://aclanthology.org/2026.sigdial-1.43.pdf) [[poster]](/assets/files/presentations/P2.11.pdf)  
   <span class="presenter">Kazunori Komatani</span>, Ryu Takeda and Mikio Nakano  
-12. **TRACER: Early Failure Detection for Task-Oriented Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.44.pdf)  
+12. **TRACER: Early Failure Detection for Task-Oriented Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.44.pdf) [[poster]](/assets/files/presentations/P2.12.pdf)  
   <span class="presenter">Erfan Nourbakhsh</span>, Rocky Slavin, Ke Yang and Anthony Rios  
 13. **Enhancing Long-term RAG Chatbots with Psychological Models of Memory Importance and Forgetting** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.12.pdf) [[poster]](/assets/files/presentations/P2.13.pdf)  
   Ryuichi Sumida, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara

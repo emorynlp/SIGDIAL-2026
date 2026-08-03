@@ -51,7 +51,7 @@ All poster sessions are held in the WH main lobby.
   Yunosuke Kubo, Kenta Yamamoto, Ryu Takeda and <span class="presenter">Kazunori Komatani</span>  
 3. **Tinker Tales: A Tangible Dialogue System for Child–AI Co-Creative Storytelling** [[paper]](https://aclanthology.org/2026.sigdial-1.3.pdf) [[slides]](/assets/files/presentations/O1.3.pdf)  
   <span class="presenter">Nayoung Choi</span>, Jiseung Hong, Peace Cyebukayire, Ikseon Choi and Jinho D. Choi  
-4. **Suppressing Unnecessary Clarification Requests for Unknown Word Acquisition in Spoken Dialogue Using Syllable-Based ASR Confidence** [[paper]](https://aclanthology.org/2026.sigdial-1.4.pdf)  
+4. **Suppressing Unnecessary Clarification Requests for Unknown Word Acquisition in Spoken Dialogue Using Syllable-Based ASR Confidence** [[paper]](https://aclanthology.org/2026.sigdial-1.4.pdf) [[slides]](/assets/files/presentations/O1.4.pdf)  
   <span class="presenter">Takumi Furuta</span>, Ryu Takeda and Kazunori Komatani  
 5. **Towards Conversational Patient History-Taking: Voice-Interactive AI Agents for Pre-visit Dementia Diagnostic Interviews** [[paper]](https://aclanthology.org/2026.sigdial-1.5.pdf) [[slides]](/assets/files/presentations/O1.5.pdf)  
   <span class="presenter">Andrew G. Breithaupt</span>, Nayoung Choi, James D. Finch, Jeanne M. Powell, Arin L. Nelson, Oz A. Alon, Howard J. Rosen and Jinho D. Choi  
@@ -68,7 +68,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Abari Bhattacharya</span> and <span class="presenter">Barbara Di Eugenio</span>  
 2. **Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment** [[paper]](https://aclanthology.org/2026.sigdial-1.7.pdf) [[slides]](/assets/files/presentations/O2.2.pdf)  
   <span class="presenter">Ali Pourghasemi Fatideh</span>, Wilder Baldwin, Maria Dhakal, Collin McMillan and Sepideh Ghanavati  
-3. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?** [[paper]](https://aclanthology.org/2026.sigdial-1.8.pdf)  
+3. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?** [[paper]](https://aclanthology.org/2026.sigdial-1.8.pdf) [[slides]](/assets/files/presentations/O2.3.pptx)  
   <span class="presenter">Dongxu Lu</span>, Albert Gatt and Johan Jeuring  
 4. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes** [[paper]](https://aclanthology.org/2026.sigdial-1.9.pdf)  
   Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (Virtual)  
@@ -87,11 +87,11 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Satoki Hamanaka</span>, Yasue Kishino, Yuiko Tsunomori, Shin Mizutani, Yuya Chiba, Tadashi Okoshi and Jin Nakazawa  
 3. **A Dialogue System for Second Language Learning with Dynamic Adaptation to In-Dialogue Difficulty Changes** [[paper]](https://aclanthology.org/2026.sigdial-1.13.pdf) [[poster]](/assets/files/presentations/P1.3.pdf)  
   <span class="presenter">Taku Morioka</span>, Junya Takayama and Tomoyuki Kajiwara  
-4. **Ping-Ponder: Concurrent Dual-Agent Spoken Dialogue via Shared Belief State** [[paper]](https://aclanthology.org/2026.sigdial-1.14.pdf)  
+4. **Ping-Ponder: Concurrent Dual-Agent Spoken Dialogue via Shared Belief State** [[paper]](https://aclanthology.org/2026.sigdial-1.14.pdf) [[poster]](/assets/files/presentations/P1.4.pdf)  
   <span class="presenter">Akiko Masaki-Kato</span> and Gulzar Haris  
 5. **Rethinking Role-Playing Evaluation: Anonymous Benchmarking and A Systematic Study of Personality Effects** [[paper]](https://aclanthology.org/2026.sigdial-1.15.pdf) [[poster]](/assets/files/presentations/P1.5.pdf)  
   <span class="presenter">Ji-Lun Peng</span> and Yun-Nung Chen  
-6. **I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System** [[paper]](https://aclanthology.org/2026.sigdial-1.16.pdf)  
+6. **I Understand How You Feel: Enhancing Deeper Emotional Support Through Multilingual Emotional Validation in Dialogue System** [[paper]](https://aclanthology.org/2026.sigdial-1.16.pdf) [[poster]](/assets/files/presentations/P1.6.pdf)  
   <span class="presenter">Zi Haur Pang</span>, Yahui Fu, <span class="presenter">Koji Inoue</span> and Tatsuya Kawahara  
 7. **For What Reason? Interpreting Models' Encoding of Causation and Antithesis** [[paper]](https://aclanthology.org/2026.sigdial-1.17.pdf) [[poster]](/assets/files/presentations/P1.7.pdf)  
   <span class="presenter">Abhidip Bhattacharyya</span> and Shira Wein  
