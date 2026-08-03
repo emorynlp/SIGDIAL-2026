@@ -26,13 +26,22 @@ The SIGDIAL co-located workshops, WOCHAT and YRRSDS, will take place at the [Psy
 * **Address**: 36 Eagle Row, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/jEBd2VwDoKmgaHDu6))
 * **Important**: The building is locked during the summer. Student volunteers will be available to let you in.
 
-
 ## Conference Venue
 
 SIGDIAL 2026 will take place at [Goodrich C. White Hall (WH)](https://filming.emory.edu/film-locations/mc_whitehall.html) Building at Emory University:
 
 * **Address**: 301 Dowman Dr, Atlanta, GA 30322 ([View Map](https://maps.app.goo.gl/NFP9ZzvbTcNWsHVKA))
 * **Important**: The building is locked during the summer. Student volunteers will be available to let you in.
+
+## WiFi Connection
+
+* If you have an [eduroam](https://eduroam.org/) account, you can use it.
+* If not, *Emory Guest* is available for free.
+
+## Eating Places
+
+* **Dobbs Common Table**, a food hall at the [Emory Student Center](https://studentcenter.emory.edu/activities/food-and-dining.html) ([map](https://maps.app.goo.gl/Jn3TohYZpBaBf82z8))
+* **Emory Village**, home to a variety of nearby restaurants ([map](https://maps.app.goo.gl/45YtaWRinx6EaWqw9))
 
 ## Visitor's Parking at Emory
 
