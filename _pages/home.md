@@ -20,6 +20,7 @@ The 27th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIA
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2026-08-03 | [Registration](/registration) is closed. |
 | 2026-08-02 | [WiFi and Eating Place](/venue/) information is posted.|
 | 2026-07-31 | [Visitor's Parking](/venue/) information is posted.|
 | 2026-07-27 | [SIGDIAL Proceedings](https://aclanthology.org/events/sigdial-2026/) have been published.|
