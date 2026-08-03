@@ -68,9 +68,9 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Abari Bhattacharya</span> and <span class="presenter">Barbara Di Eugenio</span>  
 2. **Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment** [[paper]](https://aclanthology.org/2026.sigdial-1.7.pdf) [[slides]](/assets/files/presentations/O2.2.pdf)  
   <span class="presenter">Ali Pourghasemi Fatideh</span>, Wilder Baldwin, Maria Dhakal, Collin McMillan and Sepideh Ghanavati  
-3. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?** [[paper]](https://aclanthology.org/2026.sigdial-1.8.pdf) [[slides]](/assets/files/presentations/O2.3.pptx)  
+3. **Breaking the Script: Do Role-Playing Agents Maintain Goal Alignment under Distraction?** [[paper]](https://aclanthology.org/2026.sigdial-1.8.pdf) [[slides]](/assets/files/presentations/O2.3.pdf)  
   <span class="presenter">Dongxu Lu</span>, Albert Gatt and Johan Jeuring  
-4. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes** [[paper]](https://aclanthology.org/2026.sigdial-1.9.pdf)  
+4. **ArgAssist: LLM-based Argument Synthesis for Insurance Disputes** [[paper]](https://aclanthology.org/2026.sigdial-1.9.pdf)[[slides]](/assets/files/presentations/O2.4.pdf)  
   Anubhav Sinha, Nitin Ramrakhiyani, Sachin Pawar, Isha Narang and <span class="presenter">Manoj Apte</span> (Virtual)  
 5. **Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives** [[paper]](https://aclanthology.org/2026.sigdial-1.10.pdf) [[slides]](/assets/files/presentations/O2.5.pdf)  
   <span class="presenter">Sakayo Toadoum Sari</span> (Virtual), Nelly Robin, Sais Lakhdar, Véronique Petit, Marie VENIARD, Said Jabbour and Delorme Fabien  
