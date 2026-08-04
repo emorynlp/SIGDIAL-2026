@@ -66,7 +66,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Kouki Miyazawa</span> and <span class="presenter">Yoshinao Sato</span>  
 2. **Better Scores, Worse Grounding: Hidden Regressions after Fine-Tuning in Dialogue Fact Verification** [[paper]](https://aclanthology.org/2026.sigdial-1.51.pdf)  
   <span class="presenter">Hyunkyung Park</span> (Proxy: Nan Li) and Arkaitz Zubiaga  
-3. **LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.52.pdf)  
+3. **LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.52.pdf) [[poster]](/assets/files/presentations/P3.3.pdf)  
   Katharine Kowalyshyn and <span class="presenter">Matthias Scheutz</span>  
 4. **Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis** [[paper]](https://aclanthology.org/2026.sigdial-1.53.pdf)  
   <span class="presenter">Sanjay Das</span>, Ran Elgedawy, Ethan Seefried, Ryan Burchfield and Tirthankar Ghosal  

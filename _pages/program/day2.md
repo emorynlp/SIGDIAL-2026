@@ -75,8 +75,8 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Yifan Zhu</span>, Kyeongmin Rim and James Pustejovsky  
 2. **Disentangling Annotator Skill from Verifier Strictness in Cross-Verified Dialogue Annotation** [[paper]](https://aclanthology.org/2026.sigdial-1.29.pdf) [[slides]](/assets/files/presentations/O4.2.pdf)  
   <span class="presenter">Zihao Tao</span>, John A. Prado, <span class="presenter">Ignazio Steven LaManna</span>, Ryan Puterbaugh, Mim Datta and Julia Hirschberg  
-3. **Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing** [[paper]](https://aclanthology.org/2026.sigdial-1.30.pdf)  
-  <span class="presenter">Yiming Liu</span>, Ziyue Zhang, Zhichao Xu, Xin Yu, Yingheng Tang, Tianyu Jiang and Jie Cao  
+3. **Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing** [[paper]](https://aclanthology.org/2026.sigdial-1.30.pdf) [[slides]](/assets/files/presentations/O4.3.pdf)  
+  <span class="presenter">Yiming Liu</span>, Ziyue Zhang, Zhichao Xu, Xin Yu, Yingheng Tang, Tianyu Jiang and Jie Cao 
 4. **Weakly Supervised Temporal Modeling of Latent Dynamics in Dyadic Conversations** [[paper]](https://aclanthology.org/2026.sigdial-1.31.pdf) [[slides]](/assets/files/presentations/O4.4.pdf)  
   <span class="presenter">Tahiya Chowdhury</span>  
 5. **LLMs Out-of-the-Box Do Not Generate Context-Appropriate Word Order in Russian** [[paper]](https://aclanthology.org/2026.sigdial-1.32.pdf) [[slides]](/assets/files/presentations/O4.5.pdf)  
