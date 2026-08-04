@@ -64,11 +64,11 @@ All poster sessions are held in the WH main lobby.
 ### Papers
 1. **Evaluation of Paralinguistic-Aware Spoken Dialogue Systems using Next-Utterance Classification** [[paper]](https://aclanthology.org/2026.sigdial-1.50.pdf) [[poster]](/assets/files/presentations/P3.1.pdf)  
   <span class="presenter">Kouki Miyazawa</span> and <span class="presenter">Yoshinao Sato</span>  
-2. **Better Scores, Worse Grounding: Hidden Regressions after Fine-Tuning in Dialogue Fact Verification** [[paper]](https://aclanthology.org/2026.sigdial-1.51.pdf)  
+2. **Better Scores, Worse Grounding: Hidden Regressions after Fine-Tuning in Dialogue Fact Verification** [[paper]](https://aclanthology.org/2026.sigdial-1.51.pdf) [[poster]](/assets/files/presentations/P3.2.pdf)  
   <span class="presenter">Hyunkyung Park</span> (Proxy: Nan Li) and Arkaitz Zubiaga  
 3. **LLMs and their Limited Theory of Mind: Evaluating Mental State Annotations in Situated Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.52.pdf) [[poster]](/assets/files/presentations/P3.3.pdf)  
   Katharine Kowalyshyn and <span class="presenter">Matthias Scheutz</span>  
-4. **Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis** [[paper]](https://aclanthology.org/2026.sigdial-1.53.pdf)  
+4. **Enhancing Operational Safety via Agentic Dialogue Hazard Identification Analysis** [[paper]](https://aclanthology.org/2026.sigdial-1.53.pdf) [[poster]](/assets/files/presentations/P3.4.pdf)  
   <span class="presenter">Sanjay Das</span>, Ran Elgedawy, Ethan Seefried, Ryan Burchfield and Tirthankar Ghosal  
 5. **Building Task-Oriented Dialogue Systems via Instruction Guidance without Annotated Data** [[paper]](https://aclanthology.org/2026.sigdial-1.54.pdf) [[poster]](/assets/files/presentations/P3.5.pdf)  
   Henry Gao and <span class="presenter">Jinho D. Choi</span>  
@@ -86,5 +86,5 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  
 12. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.60.pdf) [[poster]](/assets/files/presentations/P3.12.pdf)  
   <span class="presenter">Sukanta Ganguly</span>
-13. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing** [[paper]](https://aclanthology.org/2026.sigdial-1.61.pdf)  
+13. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing** [[paper]](https://aclanthology.org/2026.sigdial-1.61.pdf) [[poster]](/assets/files/presentations/P3.13.pdf)  
   <span class="presenter">Alafate Abulimiti</span> (Proxy: Michelle Elizabeth), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
