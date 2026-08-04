@@ -61,7 +61,7 @@ All poster sessions are held in the WH main lobby.
 ## Business Meeting
 
 * **Time**: 13:30 – 14:00
-* **Topics**: TBD
+* **SIGDIAL President**: Alexandros Papangelis [[slides]](/assets/files/presentations/Business_Meeting.pdf)
 
 ## Oral Session 4
 
