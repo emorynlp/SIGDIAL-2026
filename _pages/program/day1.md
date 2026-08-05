@@ -101,7 +101,7 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Yu Nakagawa</span>, Nozomu Ikeda, Kotaro Funakoshi and Manabu Okumura  
 10. **Embodied Multi-Agent Coordination by Aligning World Models Through Dialogue** [[paper]](https://aclanthology.org/2026.sigdial-1.21.pdf) [[poster]](/assets/files/presentations/P1.10.pdf)  
   <span class="presenter">Vardhan Dongre</span> and Dilek Hakkani-Tur  
-11. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D) [[paper]](https://aclanthology.org/2026.dnd-17.1.pdf)  
+11. **Strategic Dialogue Assessment: The Crooked Path to Innocence** (D&D) [[paper]](https://aclanthology.org/2026.dnd-17.1.pdf) [[poster]](/assets/files/presentations/P1.11.pdf)  
   <span class="presenter">Anshun Asher Zheng</span>, Junyi Jessy Li and David I. Beaver
 12. **SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series** [[paper]](https://aclanthology.org/2026.sigdial-1.22.pdf) [[poster]](/assets/files/presentations/P1.12.pdf)  
   Galann Pennec, Zhengyuan Liu, <span class="presenter">Nicholas Asher</span>, Philippe Muller and Nancy Chen  

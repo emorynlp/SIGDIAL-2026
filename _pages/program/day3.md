@@ -82,9 +82,9 @@ All poster sessions are held in the WH main lobby.
   <span class="presenter">Pia Chouayfati</span> (Proxy: Christoph Kowalski), Alexander M. Fichtl, Miriam Anschütz, George Doumat and Georg Groh  
 10. **PERSONAJUDGE: Simulating Individual Human Preference Judgments with Human-Centered Demonstration Data** [[paper]](https://aclanthology.org/2026.sigdial-1.59.pdf) [[poster]](/assets/files/presentations/P3.10.pdf)  
   <span class="presenter">Zeyu He</span>, Xuan Qi, <span class="presenter">Subramanian Chidambaram</span>, Zhichao Xu, Vinayak Arannil, Lydia Chilton and Alex C. Williams  
-11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.5.pdf)  
+11. **Prior Lessons of Incremental Dialogue and Robot Action Management for the Age of Language Models** (D&D) [[paper]](https://aclanthology.org/2025.dnd-16.5.pdf) [[poster]](/assets/files/presentations/P3.11.pdf)  
   <span class="presenter">Casey Kennington</span> (Proxy: Anna Manaseryan), Pierre Lison and David Schlangen  
 12. **Fractional Decay KV-Cache: Ownership-Aware Memory Management for Improved Inference Relevancy in Dialog Systems** [[paper]](https://aclanthology.org/2026.sigdial-1.60.pdf) [[poster]](/assets/files/presentations/P3.12.pdf)  
   <span class="presenter">Sukanta Ganguly</span>
 13. **A Reinforcement Learning-Based Facilitator for Simulated Group Motivational Interviewing** [[paper]](https://aclanthology.org/2026.sigdial-1.61.pdf) [[poster]](/assets/files/presentations/P3.13.pdf)  
-  <span class="presenter">Alafate Abulimiti</span> (Proxy: Michelle Elizabeth), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  
+  <span class="presenter">Alafate Abulimiti</span> (Virtual), Vladislav Maraev, Agnès Helme-Guizon and Catherine Pelachaud  

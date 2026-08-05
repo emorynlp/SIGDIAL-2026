@@ -23,3 +23,5 @@ Dr. Matthew Marge is a Program Manager in DARPA’s Information Processing Techn
 <h2>Frontier AI for National Security: The AI Forge Program</h2>
 
 This talk introduces the DARPA-NSF-CAISI AI Forge program, a strategic public-private partnership designed to accelerate breakthroughs in AI for national security. We will explore the program's three core technical thrusts of AI interpretability, AI control, and adversarial robustness, and discuss the critical need for moving beyond opaque, "black box" models. The presentation will highlight how AI Forge bridges the gap between frontier AI companies, university researchers, and government stakeholders to develop foundational capabilities that are resilient, auditable, and trusted under critical conditions.
+
+[[slides]](/assets/files/presentations/InvitedTalk-Matthew_Marge.pdf)
